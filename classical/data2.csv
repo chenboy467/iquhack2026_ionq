@@ -1,0 +1,1058 @@
+,edge_id,base_threshold,difficulty_rating,successful_attempts
+0,"['College Park, MD', 'Washington, DC']",0.9,1,0
+1,"['Baltimore, MD', 'College Park, MD']",0.9,1,0
+2,"['College Park, MD', 'Richmond, VA']",0.9,2,0
+3,"['Charlottesville, VA', 'College Park, MD']",0.9,2,0
+4,"['Bothell, WA', 'Seattle, WA']",0.9,1,0
+5,"['Bothell, WA', 'Victoria, Canada']",0.9,1,0
+6,"['Bothell, WA', 'Vancouver, Canada']",0.9,2,0
+7,"['Bothell, WA', 'Portland, OR']",0.9,2,0
+8,"['Rome, NY', 'Syracuse, NY']",0.9,1,0
+9,"['Ithaca, NY', 'Rome, NY']",0.9,1,0
+10,"['Kingston, Canada', 'Rome, NY']",0.9,1,0
+11,"['Albany, NY', 'Rome, NY']",0.9,1,0
+12,"['Chattanooga, TN', 'Huntsville, AL']",0.9,1,0
+13,"['Chattanooga, TN', 'Knoxville, TN']",0.9,2,0
+14,"['Atlanta, GA', 'Chattanooga, TN']",0.9,2,0
+15,"['Chattanooga, TN', 'Nashville, TN']",0.9,2,0
+16,"['Chicago, IL', 'Evanston, IL']",0.9,1,1
+17,"['Chicago, IL', 'Milwaukee, WI']",0.9,1,0
+18,"['Chicago, IL', 'Madison, WI']",0.9,2,1
+19,"['Chicago, IL', 'Urbana, IL']",0.9,2,1
+20,"['Hamilton, Canada', 'Toronto, Canada']",0.9,1,0
+21,"['Buffalo, NY', 'Toronto, Canada']",0.9,1,0
+22,"['Toronto, Canada', 'Waterloo, Canada']",0.9,1,0
+23,"['Rochester, NY', 'Toronto, Canada']",0.9,1,0
+24,"['La Jolla, CA', 'Vista, CA']",0.9,1,0
+25,"['San Diego, CA', 'Vista, CA']",0.9,1,0
+26,"['Irvine, CA', 'Vista, CA']",0.9,1,0
+27,"['Tijuana, Mexico', 'Vista, CA']",0.9,1,0
+28,"['Boston, MA', 'Cambridge, MA']",0.9,1,1
+29,"['Boston, MA', 'Worcester, MA']",0.9,1,2
+30,"['Boston, MA', 'Providence, RI']",0.9,1,0
+31,"['Boston, MA', 'Hartford, CT']",0.9,1,0
+32,"['Berkeley, CA', 'San Francisco, CA']",0.9,1,0
+33,"['Palo Alto, CA', 'San Francisco, CA']",0.9,1,0
+34,"['Pleasanton, CA', 'San Francisco, CA']",0.9,1,0
+35,"['San Francisco, CA', 'San Jose, CA']",0.9,1,0
+36,"['Palo Alto, CA', 'Pleasanton, CA']",0.9,1,0
+37,"['Pleasanton, CA', 'San Jose, CA']",0.9,1,0
+38,"['Berkeley, CA', 'Pleasanton, CA']",0.9,1,0
+39,"['Boulder, CO', 'Denver, CO']",0.9,1,1
+40,"['Denver, CO', 'Fort Collins, CO']",0.9,1,1
+41,"['Colorado Springs, CO', 'Denver, CO']",0.9,1,1
+42,"['Albuquerque, NM', 'Denver, CO']",0.9,3,1
+43,"['Seattle, WA', 'Victoria, Canada']",0.9,1,0
+44,"['Seattle, WA', 'Vancouver, Canada']",0.9,2,0
+45,"['Portland, OR', 'Seattle, WA']",0.9,2,0
+46,"['Eugene, OR', 'Portland, OR']",0.9,2,0
+47,"['Portland, OR', 'Victoria, Canada']",0.9,3,0
+48,"['Los Angeles, CA', 'Pasadena, CA']",0.9,1,0
+49,"['Long Beach, CA', 'Los Angeles, CA']",0.9,1,0
+50,"['Irvine, CA', 'Los Angeles, CA']",0.9,1,0
+51,"['Los Angeles, CA', 'Riverside, CA']",0.9,1,1
+52,"['La Jolla, CA', 'San Diego, CA']",0.9,1,0
+53,"['San Diego, CA', 'Tijuana, Mexico']",0.9,1,0
+54,"['Irvine, CA', 'San Diego, CA']",0.9,1,0
+55,"['Las Vegas, NV', 'Riverside, CA']",0.9,2,2
+56,"['Las Vegas, NV', 'Pasadena, CA']",0.9,3,0
+57,"['Bakersfield, CA', 'Las Vegas, NV']",0.9,3,0
+58,"['Las Vegas, NV', 'Los Angeles, CA']",0.9,3,0
+59,"['Provo, UT', 'Salt Lake City, UT']",0.9,1,1
+60,"['Boise, ID', 'Salt Lake City, UT']",0.9,3,1
+61,"['Boulder, CO', 'Salt Lake City, UT']",0.9,3,1
+62,"['Fort Collins, CO', 'Salt Lake City, UT']",0.9,3,0
+63,"['Phoenix, AZ', 'Tempe, AZ']",0.9,1,1
+64,"['Phoenix, AZ', 'Tucson, AZ']",0.9,2,1
+65,"['Las Vegas, NV', 'Phoenix, AZ']",0.9,3,0
+66,"['Phoenix, AZ', 'Tijuana, Mexico']",0.9,3,0
+67,"['Austin, TX', 'San Antonio, TX']",0.9,1,0
+68,"['Austin, TX', 'Waco, TX']",0.9,1,0
+69,"['Austin, TX', 'Houston, TX']",0.9,2,0
+70,"['Austin, TX', 'Fort Worth, TX']",0.9,2,0
+71,"['Dallas, TX', 'Fort Worth, TX']",0.9,1,0
+72,"['Dallas, TX', 'Waco, TX']",0.9,1,0
+73,"['Austin, TX', 'Dallas, TX']",0.9,2,0
+74,"['Dallas, TX', 'Oklahoma City, OK']",0.9,2,0
+75,"['Houston, TX', 'Waco, TX']",0.9,2,0
+76,"['Houston, TX', 'San Antonio, TX']",0.9,2,0
+77,"['Dallas, TX', 'Houston, TX']",0.9,3,0
+78,"['San Antonio, TX', 'Waco, TX']",0.9,2,0
+79,"['Fort Worth, TX', 'San Antonio, TX']",0.9,3,0
+80,"['Baton Rouge, LA', 'New Orleans, LA']",0.9,1,0
+81,"['Birmingham, AL', 'New Orleans, LA']",0.9,3,0
+82,"['Houston, TX', 'New Orleans, LA']",0.9,3,0
+83,"['New Orleans, LA', 'Tallahassee, FL']",0.9,3,0
+84,"['Atlanta, GA', 'Birmingham, AL']",0.9,2,0
+85,"['Atlanta, GA', 'Huntsville, AL']",0.9,2,0
+86,"['Atlanta, GA', 'Knoxville, TN']",0.9,2,0
+87,"['Miami, FL', 'Nassau, Bahamas']",0.9,2,0
+88,"['Miami, FL', 'Orlando, FL']",0.9,3,0
+89,"['Miami, FL', 'Tampa, FL']",0.9,3,0
+90,"['Havana, Cuba', 'Miami, FL']",0.9,3,0
+91,"['Orlando, FL', 'Tampa, FL']",0.9,1,0
+92,"['Gainesville, FL', 'Orlando, FL']",0.9,1,0
+93,"['Jacksonville, FL', 'Orlando, FL']",0.9,2,0
+94,"['Durham, NC', 'Raleigh, NC']",0.9,1,0
+95,"['Chapel Hill, NC', 'Raleigh, NC']",0.9,1,0
+96,"['Charlotte, NC', 'Raleigh, NC']",0.9,2,0
+97,"['Raleigh, NC', 'Richmond, VA']",0.9,2,0
+98,"['Chapel Hill, NC', 'Charlotte, NC']",0.9,2,0
+99,"['Charlotte, NC', 'Durham, NC']",0.9,2,0
+100,"['Blacksburg, VA', 'Charlotte, NC']",0.9,2,0
+101,"['Huntsville, AL', 'Nashville, TN']",0.9,1,0
+102,"['Louisville, KY', 'Nashville, TN']",0.9,2,1
+103,"['Knoxville, TN', 'Nashville, TN']",0.9,2,0
+104,"['Baltimore, MD', 'Washington, DC']",0.9,1,0
+105,"['Richmond, VA', 'Washington, DC']",0.9,1,0
+106,"['Charlottesville, VA', 'Washington, DC']",0.9,1,0
+107,"['Philadelphia, PA', 'Princeton, NJ']",0.9,1,0
+108,"['Bethlehem, PA', 'Philadelphia, PA']",0.9,1,0
+109,"['New York, NY', 'Philadelphia, PA']",0.9,1,1
+110,"['Baltimore, MD', 'Philadelphia, PA']",0.9,1,1
+111,"['New York, NY', 'Princeton, NJ']",0.9,1,1
+112,"['New Haven, CT', 'New York, NY']",0.9,1,1
+113,"['Bethlehem, PA', 'New York, NY']",0.9,1,0
+114,"['Pittsburgh, PA', 'State College, PA']",0.9,2,0
+115,"['Cleveland, OH', 'Pittsburgh, PA']",0.9,2,1
+116,"['Columbus, OH', 'Pittsburgh, PA']",0.9,2,1
+117,"['Buffalo, NY', 'Pittsburgh, PA']",0.9,2,0
+118,"['Ann Arbor, MI', 'Detroit, MI']",0.9,1,0
+119,"['Cleveland, OH', 'Detroit, MI']",0.9,1,1
+120,"['Detroit, MI', 'London, Canada']",0.9,2,0
+121,"['Detroit, MI', 'Waterloo, Canada']",0.9,2,0
+122,"['Cincinnati, OH', 'Columbus, OH']",0.9,1,1
+123,"['Cleveland, OH', 'Columbus, OH']",0.9,2,1
+124,"['Columbus, OH', 'Lexington, KY']",0.9,2,0
+125,"['Cincinnati, OH', 'Indianapolis, IN']",0.9,1,1
+126,"['Indianapolis, IN', 'Louisville, KY']",0.9,2,1
+127,"['Indianapolis, IN', 'Urbana, IL']",0.9,2,1
+128,"['Indianapolis, IN', 'Lexington, KY']",0.9,2,0
+129,"['St. Louis, MO', 'Urbana, IL']",0.9,2,1
+130,"['Indianapolis, IN', 'St. Louis, MO']",0.9,3,1
+131,"['Kansas City, MO', 'St. Louis, MO']",0.9,3,0
+132,"['Memphis, TN', 'St. Louis, MO']",0.9,3,0
+133,"['Kansas City, MO', 'Omaha, NE']",0.9,2,0
+134,"['Kansas City, MO', 'Tulsa, OK']",0.9,3,0
+135,"['Kansas City, MO', 'Oklahoma City, OK']",0.9,3,0
+136,"['Madison, WI', 'Minneapolis, MN']",0.9,3,1
+137,"['Minneapolis, MN', 'Omaha, NE']",0.9,3,0
+138,"['Milwaukee, WI', 'Minneapolis, MN']",0.9,3,1
+139,"['Evanston, IL', 'Minneapolis, MN']",0.9,3,0
+140,"['Vancouver, Canada', 'Victoria, Canada']",0.9,1,0
+141,"['Portland, OR', 'Vancouver, Canada']",0.9,3,0
+142,"['Calgary, Canada', 'Edmonton, Canada']",0.9,2,0
+143,"['Calgary, Canada', 'Spokane, WA']",0.9,3,0
+144,"['Calgary, Canada', 'Saskatoon, Canada']",0.9,3,0
+145,"['Calgary, Canada', 'Regina, Canada']",0.9,3,0
+146,"['Edmonton, Canada', 'Saskatoon, Canada']",0.9,3,0
+147,"['Edmonton, Canada', 'Regina, Canada']",0.9,3,0
+148,"['Edmonton, Canada', 'Spokane, WA']",0.92,4,0
+149,"['Regina, Canada', 'Winnipeg, Canada']",0.9,3,0
+150,"['Minneapolis, MN', 'Winnipeg, Canada']",0.9,3,0
+151,"['Saskatoon, Canada', 'Winnipeg, Canada']",0.92,4,1
+152,"['Madison, WI', 'Winnipeg, Canada']",0.92,4,0
+153,"['Burlington, VT', 'Montreal, Canada']",0.9,1,0
+154,"['Montreal, Canada', 'Sherbrooke, Canada']",0.9,1,0
+155,"['Montreal, Canada', 'Ottawa, Canada']",0.9,2,0
+156,"['Hanover, NH', 'Montreal, Canada']",0.9,2,0
+157,"['Kingston, Canada', 'Ottawa, Canada']",0.9,1,0
+158,"['Burlington, VT', 'Ottawa, Canada']",0.9,2,0
+159,"['Ottawa, Canada', 'Rome, NY']",0.9,2,0
+160,"['Quebec City, Canada', 'Sherbrooke, Canada']",0.9,2,0
+161,"['Montreal, Canada', 'Quebec City, Canada']",0.9,2,0
+162,"['Burlington, VT', 'Quebec City, Canada']",0.9,2,0
+163,"['Hanover, NH', 'Quebec City, Canada']",0.9,3,0
+164,"['Halifax, Canada', 'Portland, ME']",0.9,3,0
+165,"['Halifax, Canada', 'Quebec City, Canada']",0.9,3,0
+166,"['Boston, MA', 'Halifax, Canada']",0.9,3,2
+167,"['Cambridge, MA', 'Halifax, Canada']",0.9,3,1
+168,"['Evanston, IL', 'Milwaukee, WI']",0.9,1,1
+169,"['Madison, WI', 'Milwaukee, WI']",0.9,1,1
+170,"['Milwaukee, WI', 'Urbana, IL']",0.9,2,1
+171,"['Buffalo, NY', 'Hamilton, Canada']",0.9,1,0
+172,"['Buffalo, NY', 'Rochester, NY']",0.9,1,0
+173,"['Buffalo, NY', 'Waterloo, Canada']",0.9,1,0
+174,"['Providence, RI', 'Worcester, MA']",0.9,1,0
+175,"['Cambridge, MA', 'Providence, RI']",0.9,1,0
+176,"['Hartford, CT', 'Providence, RI']",0.9,1,0
+177,"['Boise, ID', 'Spokane, WA']",0.9,3,1
+178,"['Boise, ID', 'Provo, UT']",0.9,3,0
+179,"['Boise, ID', 'Reno, NV']",0.9,3,0
+180,"['Basel, Switzerland', 'Bern, Switzerland']",0.9,1,0
+181,"['Basel, Switzerland', 'Zurich, Switzerland']",0.9,1,0
+182,"['Basel, Switzerland', 'Strasbourg, France']",0.9,1,0
+183,"['Basel, Switzerland', 'Lausanne, Switzerland']",0.9,1,0
+184,"['Geneva, Switzerland', 'Lausanne, Switzerland']",0.9,1,0
+185,"['Geneva, Switzerland', 'Lyon, France']",0.9,1,0
+186,"['Geneva, Switzerland', 'Grenoble, France']",0.9,1,0
+187,"['Bern, Switzerland', 'Geneva, Switzerland']",0.9,1,0
+188,"['Bern, Switzerland', 'Zurich, Switzerland']",0.9,1,0
+189,"['Strasbourg, France', 'Zurich, Switzerland']",0.9,1,0
+190,"['Stuttgart, Germany', 'Zurich, Switzerland']",0.9,2,0
+191,"['London, UK', 'Oxford, UK']",0.9,1,1
+192,"['Birmingham, UK', 'Oxford, UK']",0.9,1,0
+193,"['Oxford, UK', 'Southampton, UK']",0.9,1,0
+194,"['Bristol, UK', 'Oxford, UK']",0.9,1,0
+195,"['Cambridge, UK', 'London, UK']",0.9,1,0
+196,"['London, UK', 'Southampton, UK']",0.9,1,0
+197,"['Birmingham, UK', 'London, UK']",0.9,2,0
+198,"['Liverpool, UK', 'Manchester, UK']",0.9,1,0
+199,"['Manchester, UK', 'Sheffield, UK']",0.9,1,0
+200,"['Leeds, UK', 'Manchester, UK']",0.9,1,0
+201,"['Manchester, UK', 'Nottingham, UK']",0.9,1,0
+202,"['Edinburgh, UK', 'Glasgow, UK']",0.9,1,0
+203,"['Edinburgh, UK', 'Newcastle, UK']",0.9,1,0
+204,"['Belfast, UK', 'Edinburgh, UK']",0.9,2,0
+205,"['Edinburgh, UK', 'Leeds, UK']",0.9,2,0
+206,"['Belfast, UK', 'Dublin, Ireland']",0.9,1,0
+207,"['Dublin, Ireland', 'Galway, Ireland']",0.9,2,0
+208,"['Dublin, Ireland', 'Liverpool, UK']",0.9,2,0
+209,"['Cork, Ireland', 'Dublin, Ireland']",0.9,2,0
+210,"['Lille, France', 'Paris, France']",0.9,2,0
+211,"['Ghent, Belgium', 'Paris, France']",0.9,2,0
+212,"['Brussels, Belgium', 'Paris, France']",0.9,2,0
+213,"['Leuven, Belgium', 'Paris, France']",0.9,2,0
+214,"['Grenoble, France', 'Lyon, France']",0.9,1,0
+215,"['Lausanne, Switzerland', 'Lyon, France']",0.9,2,0
+216,"['Lyon, France', 'Turin, Italy']",0.9,2,0
+217,"['Marseille, France', 'Montpellier, France']",0.9,1,0
+218,"['Marseille, France', 'Nice, France']",0.9,1,0
+219,"['Grenoble, France', 'Marseille, France']",0.9,2,4
+220,"['Marseille, France', 'Turin, Italy']",0.9,2,0
+221,"['Berlin, Germany', 'Leipzig, Germany']",0.9,1,0
+222,"['Berlin, Germany', 'Dresden, Germany']",0.9,2,0
+223,"['Berlin, Germany', 'Hanover, Germany']",0.9,2,0
+224,"['Berlin, Germany', 'Hamburg, Germany']",0.9,2,0
+225,"['Innsbruck, Austria', 'Munich, Germany']",0.9,1,0
+226,"['Munich, Germany', 'Salzburg, Austria']",0.9,1,0
+227,"['Munich, Germany', 'Nuremberg, Germany']",0.9,1,0
+228,"['Munich, Germany', 'Stuttgart, Germany']",0.9,2,0
+229,"['Frankfurt, Germany', 'Heidelberg, Germany']",0.9,1,0
+230,"['Bonn, Germany', 'Frankfurt, Germany']",0.9,1,0
+231,"['Cologne, Germany', 'Frankfurt, Germany']",0.9,1,0
+232,"['Frankfurt, Germany', 'Stuttgart, Germany']",0.9,1,0
+233,"['Bremen, Germany', 'Hamburg, Germany']",0.9,1,0
+234,"['Hamburg, Germany', 'Hanover, Germany']",0.9,1,0
+235,"['Groningen, Netherlands', 'Hamburg, Germany']",0.9,2,0
+236,"['Amsterdam, Netherlands', 'Utrecht, Netherlands']",0.9,1,0
+237,"['Amsterdam, Netherlands', 'Leiden, Netherlands']",0.9,1,0
+238,"['Amsterdam, Netherlands', 'Delft, Netherlands']",0.9,1,0
+239,"['Amsterdam, Netherlands', 'Rotterdam, Netherlands']",0.9,1,0
+240,"['Delft, Netherlands', 'Rotterdam, Netherlands']",0.9,1,0
+241,"['Leiden, Netherlands', 'Rotterdam, Netherlands']",0.9,1,0
+242,"['Rotterdam, Netherlands', 'Utrecht, Netherlands']",0.9,1,0
+243,"['Brussels, Belgium', 'Leuven, Belgium']",0.9,1,0
+244,"['Antwerp, Belgium', 'Brussels, Belgium']",0.9,1,0
+245,"['Brussels, Belgium', 'Ghent, Belgium']",0.9,1,0
+246,"['Brussels, Belgium', 'Lille, France']",0.9,1,0
+247,"['Bratislava, Slovakia', 'Vienna, Austria']",0.9,1,0
+248,"['Brno, Czechia', 'Vienna, Austria']",0.9,1,0
+249,"['Graz, Austria', 'Vienna, Austria']",0.9,1,0
+250,"['Linz, Austria', 'Vienna, Austria']",0.9,1,0
+251,"['Copenhagen, Denmark', 'Malmo, Sweden']",0.9,1,0
+252,"['Copenhagen, Denmark', 'Lund, Sweden']",0.9,1,0
+253,"['Aarhus, Denmark', 'Copenhagen, Denmark']",0.9,1,0
+254,"['Copenhagen, Denmark', 'Gothenburg, Sweden']",0.9,2,0
+255,"['Stockholm, Sweden', 'Uppsala, Sweden']",0.9,1,0
+256,"['Stockholm, Sweden', 'Turku, Finland']",0.9,2,0
+257,"['Stockholm, Sweden', 'Tallinn, Estonia']",0.9,3,0
+258,"['Stockholm, Sweden', 'Tampere, Finland']",0.9,3,0
+259,"['Gothenburg, Sweden', 'Oslo, Norway']",0.9,2,0
+260,"['Bergen, Norway', 'Oslo, Norway']",0.9,2,0
+261,"['Oslo, Norway', 'Uppsala, Sweden']",0.9,3,0
+262,"['Oslo, Norway', 'Trondheim, Norway']",0.9,3,0
+263,"['Helsinki, Finland', 'Tallinn, Estonia']",0.9,1,1
+264,"['Helsinki, Finland', 'Turku, Finland']",0.9,1,1
+265,"['Helsinki, Finland', 'Tampere, Finland']",0.9,1,1
+266,"['Helsinki, Finland', 'St. Petersburg, Russia']",0.9,2,0
+267,"['Madrid, Spain', 'Valencia, Spain']",0.9,2,0
+268,"['Bilbao, Spain', 'Madrid, Spain']",0.9,2,0
+269,"['Madrid, Spain', 'Seville, Spain']",0.9,3,0
+270,"['Madrid, Spain', 'Porto, Portugal']",0.9,3,0
+271,"['Barcelona, Spain', 'Toulouse, France']",0.9,2,0
+272,"['Barcelona, Spain', 'Montpellier, France']",0.9,2,0
+273,"['Barcelona, Spain', 'Valencia, Spain']",0.9,2,0
+274,"['Barcelona, Spain', 'Marseille, France']",0.9,3,0
+275,"['Lisbon, Portugal', 'Porto, Portugal']",0.9,2,0
+276,"['Lisbon, Portugal', 'Seville, Spain']",0.9,2,0
+277,"['Lisbon, Portugal', 'Madrid, Spain']",0.9,3,0
+278,"['Lisbon, Portugal', 'Rabat, Morocco']",0.9,3,0
+279,"['Florence, Italy', 'Rome, Italy']",0.9,2,0
+280,"['Bologna, Italy', 'Rome, Italy']",0.9,2,0
+281,"['Nice, France', 'Rome, Italy']",0.9,3,0
+282,"['Milan, Italy', 'Rome, Italy']",0.9,3,0
+283,"['Milan, Italy', 'Turin, Italy']",0.9,1,0
+284,"['Bologna, Italy', 'Milan, Italy']",0.9,2,0
+285,"['Bern, Switzerland', 'Milan, Italy']",0.9,2,0
+286,"['Omaha, NE', 'Tulsa, OK']",0.9,3,0
+287,"['Milan, Italy', 'Zurich, Switzerland']",0.9,2,0
+288,"['Athens, Greece', 'Izmir, Turkey']",0.9,2,2
+289,"['Athens, Greece', 'Thessaloniki, Greece']",0.9,2,1
+290,"['Athens, Greece', 'Sofia, Bulgaria']",0.9,3,0
+291,"['Athens, Greece', 'Istanbul, Turkey']",0.9,3,0
+292,"['Krakow, Poland', 'Warsaw, Poland']",0.9,2,0
+293,"['Gdansk, Poland', 'Warsaw, Poland']",0.9,2,0
+294,"['Lviv, Ukraine', 'Warsaw, Poland']",0.9,3,0
+295,"['Vilnius, Lithuania', 'Warsaw, Poland']",0.9,3,0
+296,"['Dresden, Germany', 'Prague, Czechia']",0.9,1,0
+297,"['Brno, Czechia', 'Prague, Czechia']",0.9,2,0
+298,"['Linz, Austria', 'Prague, Czechia']",0.9,2,0
+299,"['Leipzig, Germany', 'Prague, Czechia']",0.9,2,0
+300,"['Bratislava, Slovakia', 'Budapest, Hungary']",0.9,2,0
+301,"['Budapest, Hungary', 'Vienna, Austria']",0.9,2,0
+302,"['Brno, Czechia', 'Budapest, Hungary']",0.9,2,0
+303,"['Budapest, Hungary', 'Graz, Austria']",0.9,2,0
+304,"['Daegu, South Korea', 'Daejeon, South Korea']",0.9,1,0
+305,"['Daejeon, South Korea', 'Incheon, South Korea']",0.9,1,0
+306,"['Daejeon, South Korea', 'Seoul, South Korea']",0.9,1,0
+307,"['Daejeon, South Korea', 'Gwangju, South Korea']",0.9,1,0
+308,"['Incheon, South Korea', 'Seoul, South Korea']",0.9,1,0
+309,"['Daegu, South Korea', 'Seoul, South Korea']",0.9,2,0
+310,"['Gwangju, South Korea', 'Seoul, South Korea']",0.9,2,0
+311,"['Busan, South Korea', 'Daegu, South Korea']",0.9,1,0
+312,"['Busan, South Korea', 'Daejeon, South Korea']",0.9,2,0
+313,"['Busan, South Korea', 'Gwangju, South Korea']",0.9,2,0
+314,"['Busan, South Korea', 'Fukuoka, Japan']",0.9,2,0
+315,"['Tokyo, Japan', 'Yokohama, Japan']",0.9,1,0
+316,"['Nagoya, Japan', 'Tokyo, Japan']",0.9,2,0
+317,"['Sendai, Japan', 'Tokyo, Japan']",0.9,2,0
+318,"['Kyoto, Japan', 'Tokyo, Japan']",0.9,3,0
+319,"['Kobe, Japan', 'Osaka, Japan']",0.9,1,0
+320,"['Kyoto, Japan', 'Osaka, Japan']",0.9,1,0
+321,"['Nagoya, Japan', 'Osaka, Japan']",0.9,1,0
+322,"['Hiroshima, Japan', 'Osaka, Japan']",0.9,2,0
+323,"['Sapporo, Japan', 'Sendai, Japan']",0.9,3,0
+324,"['Sapporo, Japan', 'Tokyo, Japan']",0.92,4,0
+325,"['Sapporo, Japan', 'Yokohama, Japan']",0.92,4,0
+326,"['Nagoya, Japan', 'Sapporo, Japan']",0.92,4,0
+327,"['Fukuoka, Japan', 'Hiroshima, Japan']",0.9,2,0
+328,"['Daegu, South Korea', 'Fukuoka, Japan']",0.9,2,0
+329,"['Fukuoka, Japan', 'Gwangju, South Korea']",0.9,3,0
+330,"['Hsinchu, Taiwan', 'Taipei, Taiwan']",0.9,1,2
+331,"['Taichung, Taiwan', 'Taipei, Taiwan']",0.9,1,2
+332,"['Kaohsiung, Taiwan', 'Taipei, Taiwan']",0.9,2,2
+333,"['Ningbo, China', 'Taipei, Taiwan']",0.9,3,0
+334,"['Johor Bahru, Malaysia', 'Singapore']",0.9,1,0
+335,"['Kuala Lumpur, Malaysia', 'Singapore']",0.9,2,0
+336,"['Penang, Malaysia', 'Singapore']",0.9,3,0
+337,"['Jakarta, Indonesia', 'Singapore']",0.92,4,0
+338,"['Canberra, Australia', 'Sydney, Australia']",0.9,2,0
+339,"['Gold Coast, Australia', 'Sydney, Australia']",0.9,3,0
+340,"['Melbourne, Australia', 'Sydney, Australia']",0.92,4,0
+341,"['Brisbane, Australia', 'Sydney, Australia']",0.92,4,0
+342,"['Canberra, Australia', 'Melbourne, Australia']",0.9,3,0
+343,"['Adelaide, Australia', 'Melbourne, Australia']",0.9,3,0
+344,"['Gold Coast, Australia', 'Melbourne, Australia']",0.92,4,0
+345,"['Brisbane, Australia', 'Gold Coast, Australia']",0.9,1,0
+346,"['Brisbane, Australia', 'Canberra, Australia']",0.92,4,0
+347,"['Brisbane, Australia', 'Melbourne, Australia']",0.92,4,0
+348,"['Adelaide, Australia', 'Perth, Australia']",0.92,4,0
+349,"['Melbourne, Australia', 'Perth, Australia']",0.92,4,0
+350,"['Perth, Australia', 'Surabaya, Indonesia']",0.92,4,0
+351,"['Bandung, Indonesia', 'Perth, Australia']",0.92,4,0
+352,"['Auckland, New Zealand', 'Wellington, New Zealand']",0.9,3,0
+353,"['Auckland, New Zealand', 'Christchurch, New Zealand']",0.92,4,0
+354,"['Auckland, New Zealand', 'Sydney, Australia']",0.92,4,0
+355,"['Auckland, New Zealand', 'Gold Coast, Australia']",0.92,4,0
+356,"['Christchurch, New Zealand', 'Wellington, New Zealand']",0.9,2,0
+357,"['Sydney, Australia', 'Wellington, New Zealand']",0.92,4,0
+358,"['Canberra, Australia', 'Wellington, New Zealand']",0.92,4,0
+359,"['Jerusalem, Israel', 'Tel Aviv, Israel']",0.9,1,0
+360,"['Haifa, Israel', 'Tel Aviv, Israel']",0.9,1,0
+361,"['Amman, Jordan', 'Tel Aviv, Israel']",0.9,1,0
+362,"['Beirut, Lebanon', 'Tel Aviv, Israel']",0.9,2,0
+363,"['Glasgow, UK', 'Reykjavik, Iceland']",0.92,4,0
+364,"['Edinburgh, UK', 'Reykjavik, Iceland']",0.92,4,0
+365,"['Belfast, UK', 'Reykjavik, Iceland']",0.92,4,0
+366,"['Galway, Ireland', 'Reykjavik, Iceland']",0.92,4,0
+367,"['Tallinn, Estonia', 'Turku, Finland']",0.9,2,0
+368,"['Tallinn, Estonia', 'Tampere, Finland']",0.9,2,0
+369,"['Riga, Latvia', 'Tallinn, Estonia']",0.9,2,0
+370,"['Cambridge, MA', 'Worcester, MA']",0.9,1,0
+371,"['Cambridge, MA', 'Hartford, CT']",0.9,1,0
+372,"['Bethlehem, PA', 'Princeton, NJ']",0.9,1,0
+373,"['New Haven, CT', 'Princeton, NJ']",0.9,2,1
+374,"['Palo Alto, CA', 'San Jose, CA']",0.9,1,0
+375,"['Berkeley, CA', 'Palo Alto, CA']",0.9,1,0
+376,"['Long Beach, CA', 'Pasadena, CA']",0.9,1,0
+377,"['Irvine, CA', 'Pasadena, CA']",0.9,1,0
+378,"['Pasadena, CA', 'Riverside, CA']",0.9,1,0
+379,"['Boulder, CO', 'Fort Collins, CO']",0.9,1,1
+380,"['Boulder, CO', 'Colorado Springs, CO']",0.9,1,1
+381,"['Boulder, CO', 'Provo, UT']",0.9,3,1
+382,"['Ann Arbor, MI', 'Cleveland, OH']",0.9,2,0
+383,"['Ann Arbor, MI', 'London, Canada']",0.9,2,0
+384,"['Ann Arbor, MI', 'Columbus, OH']",0.9,2,0
+385,"['Evanston, IL', 'Madison, WI']",0.9,2,0
+386,"['Madison, WI', 'Urbana, IL']",0.9,3,0
+387,"['Evanston, IL', 'Urbana, IL']",0.9,2,0
+388,"['Ithaca, NY', 'Syracuse, NY']",0.9,1,0
+389,"['Ithaca, NY', 'Rochester, NY']",0.9,1,1
+390,"['Ithaca, NY', 'Kingston, Canada']",0.9,2,0
+391,"['Hartford, CT', 'New Haven, CT']",0.9,1,0
+392,"['New Haven, CT', 'Providence, RI']",0.9,1,0
+393,"['New Haven, CT', 'Worcester, MA']",0.9,1,0
+394,"['Berkeley, CA', 'San Jose, CA']",0.9,1,0
+395,"['Bakersfield, CA', 'Santa Barbara, CA']",0.9,1,0
+396,"['Los Angeles, CA', 'Santa Barbara, CA']",0.9,1,5
+397,"['Pasadena, CA', 'Santa Barbara, CA']",0.9,1,0
+398,"['Long Beach, CA', 'Santa Barbara, CA']",0.9,1,0
+399,"['Tempe, AZ', 'Tucson, AZ']",0.9,1,1
+400,"['El Paso, TX', 'Tucson, AZ']",0.9,3,0
+401,"['Albuquerque, NM', 'Tucson, AZ']",0.9,3,1
+402,"['Albuquerque, NM', 'El Paso, TX']",0.9,3,1
+403,"['Albuquerque, NM', 'Colorado Springs, CO']",0.9,3,1
+404,"['Albuquerque, NM', 'Lubbock, TX']",0.9,3,0
+405,"['Honolulu, HI', 'San Francisco, CA']",0.92,4,0
+406,"['Honolulu, HI', 'Santa Cruz, CA']",0.92,4,0
+407,"['Honolulu, HI', 'Palo Alto, CA']",0.92,4,0
+408,"['Berkeley, CA', 'Honolulu, HI']",0.92,4,0
+409,"['Anchorage, AK', 'Vancouver, Canada']",0.92,4,0
+410,"['Anchorage, AK', 'Victoria, Canada']",0.92,4,0
+411,"['Anchorage, AK', 'Bothell, WA']",0.92,4,0
+412,"['Anchorage, AK', 'Edmonton, Canada']",0.92,4,0
+413,"['Baltimore, MD', 'Bethlehem, PA']",0.9,2,0
+414,"['Charlottesville, VA', 'Richmond, VA']",0.9,1,0
+415,"['Baltimore, MD', 'Richmond, VA']",0.9,2,0
+416,"['Gainesville, FL', 'Tampa, FL']",0.9,2,0
+417,"['Jacksonville, FL', 'Tampa, FL']",0.9,2,0
+418,"['Tallahassee, FL', 'Tampa, FL']",0.9,3,0
+419,"['Gainesville, FL', 'Jacksonville, FL']",0.9,1,0
+420,"['Jacksonville, FL', 'Tallahassee, FL']",0.9,2,0
+421,"['Cincinnati, OH', 'Lexington, KY']",0.9,1,0
+422,"['Cincinnati, OH', 'Louisville, KY']",0.9,1,1
+423,"['Cleveland, OH', 'London, Canada']",0.9,2,0
+424,"['Oklahoma City, OK', 'Tulsa, OK']",0.9,1,0
+425,"['Fort Worth, TX', 'Oklahoma City, OK']",0.9,2,0
+426,"['Oklahoma City, OK', 'Waco, TX']",0.9,3,0
+427,"['Omaha, NE', 'St. Louis, MO']",0.9,3,0
+428,"['Little Rock, AR', 'Memphis, TN']",0.9,2,0
+429,"['Memphis, TN', 'Nashville, TN']",0.9,2,0
+430,"['Huntsville, AL', 'Memphis, TN']",0.9,2,0
+431,"['Birmingham, AL', 'Memphis, TN']",0.9,3,0
+432,"['Regina, Canada', 'Saskatoon, Canada']",0.9,2,0
+433,"['Hamilton, Canada', 'Waterloo, Canada']",0.9,1,0
+434,"['London, Canada', 'Waterloo, Canada']",0.9,1,0
+435,"['Cambridge, UK', 'Oxford, UK']",0.9,1,0
+436,"['Cambridge, UK', 'Nottingham, UK']",0.9,1,0
+437,"['Birmingham, UK', 'Cambridge, UK']",0.9,1,0
+438,"['Belfast, UK', 'Glasgow, UK']",0.9,2,0
+439,"['Glasgow, UK', 'Newcastle, UK']",0.9,2,0
+440,"['Glasgow, UK', 'Liverpool, UK']",0.9,2,0
+441,"['Bristol, UK', 'Cardiff, UK']",0.9,1,0
+442,"['Bristol, UK', 'Southampton, UK']",0.9,1,0
+443,"['Birmingham, UK', 'Bristol, UK']",0.9,1,0
+444,"['Birmingham, UK', 'Nottingham, UK']",0.9,1,0
+445,"['Birmingham, UK', 'Sheffield, UK']",0.9,1,0
+446,"['Birmingham, UK', 'Manchester, UK']",0.9,1,0
+447,"['Leeds, UK', 'Sheffield, UK']",0.9,1,0
+448,"['Leeds, UK', 'Nottingham, UK']",0.9,1,0
+449,"['Leeds, UK', 'Liverpool, UK']",0.9,1,0
+450,"['Delft, Netherlands', 'Leiden, Netherlands']",0.9,1,0
+451,"['Delft, Netherlands', 'Utrecht, Netherlands']",0.9,1,0
+452,"['Eindhoven, Netherlands', 'Utrecht, Netherlands']",0.9,1,0
+453,"['Antwerp, Belgium', 'Eindhoven, Netherlands']",0.9,1,0
+454,"['Eindhoven, Netherlands', 'Leuven, Belgium']",0.9,1,0
+455,"['Aachen, Germany', 'Eindhoven, Netherlands']",0.9,1,0
+456,"['Grenoble, France', 'Turin, Italy']",0.9,1,0
+457,"['Grenoble, France', 'Lausanne, Switzerland']",0.9,2,4
+458,"['Montpellier, France', 'Toulouse, France']",0.9,2,0
+459,"['Bordeaux, France', 'Toulouse, France']",0.9,2,0
+460,"['Marseille, France', 'Toulouse, France']",0.9,2,0
+461,"['Nice, France', 'Turin, Italy']",0.9,1,0
+462,"['Grenoble, France', 'Nice, France']",0.9,2,0
+463,"['Milan, Italy', 'Nice, France']",0.9,2,0
+464,"['Bonn, Germany', 'Cologne, Germany']",0.9,1,0
+465,"['Cologne, Germany', 'Dusseldorf, Germany']",0.9,1,0
+466,"['Cologne, Germany', 'Essen, Germany']",0.9,1,0
+467,"['Aachen, Germany', 'Cologne, Germany']",0.9,1,0
+468,"['Heidelberg, Germany', 'Stuttgart, Germany']",0.9,1,0
+469,"['Strasbourg, France', 'Stuttgart, Germany']",0.9,1,0
+470,"['Nuremberg, Germany', 'Stuttgart, Germany']",0.9,1,0
+471,"['Dresden, Germany', 'Leipzig, Germany']",0.9,1,0
+472,"['Dresden, Germany', 'Nuremberg, Germany']",0.9,2,0
+473,"['Aachen, Germany', 'Dusseldorf, Germany']",0.9,1,0
+474,"['Aachen, Germany', 'Bonn, Germany']",0.9,1,0
+475,"['Heidelberg, Germany', 'Strasbourg, France']",0.9,1,0
+476,"['Heidelberg, Germany', 'Nuremberg, Germany']",0.9,2,0
+477,"['Innsbruck, Austria', 'Salzburg, Austria']",0.9,1,0
+478,"['Innsbruck, Austria', 'Zurich, Switzerland']",0.9,2,0
+479,"['Innsbruck, Austria', 'Stuttgart, Germany']",0.9,2,0
+480,"['Graz, Austria', 'Ljubljana, Slovenia']",0.9,1,0
+481,"['Graz, Austria', 'Zagreb, Croatia']",0.9,1,0
+482,"['Graz, Austria', 'Linz, Austria']",0.9,2,0
+483,"['Aarhus, Denmark', 'Gothenburg, Sweden']",0.9,2,0
+484,"['Gothenburg, Sweden', 'Lund, Sweden']",0.9,2,0
+485,"['Gothenburg, Sweden', 'Malmo, Sweden']",0.9,2,0
+486,"['Turku, Finland', 'Uppsala, Sweden']",0.9,2,0
+487,"['Tampere, Finland', 'Uppsala, Sweden']",0.9,3,0
+488,"['Tampere, Finland', 'Turku, Finland']",0.9,1,1
+489,"['Brno, Czechia', 'Krakow, Poland']",0.9,2,0
+490,"['Budapest, Hungary', 'Krakow, Poland']",0.9,2,0
+491,"['Krakow, Poland', 'Lviv, Ukraine']",0.9,2,0
+492,"['Gdansk, Poland', 'Lund, Sweden']",0.9,3,0
+493,"['Gdansk, Poland', 'Malmo, Sweden']",0.9,3,0
+494,"['Berlin, Germany', 'Gdansk, Poland']",0.9,3,0
+495,"['Bratislava, Slovakia', 'Brno, Czechia']",0.9,1,0
+496,"['Brno, Czechia', 'Linz, Austria']",0.9,2,0
+497,"['Bratislava, Slovakia', 'Graz, Austria']",0.9,2,0
+498,"['Ljubljana, Slovenia', 'Zagreb, Croatia']",0.9,1,0
+499,"['Ljubljana, Slovenia', 'Salzburg, Austria']",0.9,2,0
+500,"['Linz, Austria', 'Ljubljana, Slovenia']",0.9,2,0
+501,"['Vienna, Austria', 'Zagreb, Croatia']",0.9,2,0
+502,"['Bratislava, Slovakia', 'Zagreb, Croatia']",0.9,2,0
+503,"['Bucharest, Romania', 'Sofia, Bulgaria']",0.9,2,0
+504,"['Bucharest, Romania', 'Istanbul, Turkey']",0.9,3,0
+505,"['Bucharest, Romania', 'Thessaloniki, Greece']",0.9,3,0
+506,"['Bucharest, Romania', 'Lviv, Ukraine']",0.9,3,0
+507,"['Sofia, Bulgaria', 'Thessaloniki, Greece']",0.9,2,0
+508,"['Istanbul, Turkey', 'Sofia, Bulgaria']",0.9,3,0
+509,"['Porto, Portugal', 'Seville, Spain']",0.9,3,0
+510,"['Bilbao, Spain', 'Porto, Portugal']",0.9,3,0
+511,"['Algiers, Algeria', 'Valencia, Spain']",0.9,3,0
+512,"['Bilbao, Spain', 'Valencia, Spain']",0.9,3,0
+513,"['Rabat, Morocco', 'Seville, Spain']",0.9,3,0
+514,"['Casablanca, Morocco', 'Seville, Spain']",0.9,3,0
+515,"['Bilbao, Spain', 'Bordeaux, France']",0.9,2,0
+516,"['Bilbao, Spain', 'Toulouse, France']",0.9,3,1
+517,"['Bilbao, Spain', 'Nantes, France']",0.9,3,0
+518,"['Bologna, Italy', 'Florence, Italy']",0.9,1,0
+519,"['Florence, Italy', 'Milan, Italy']",0.9,2,0
+520,"['Florence, Italy', 'Turin, Italy']",0.9,2,0
+521,"['Geneva, Switzerland', 'Turin, Italy']",0.9,2,0
+522,"['Bologna, Italy', 'Turin, Italy']",0.9,2,0
+523,"['Bologna, Italy', 'Ljubljana, Slovenia']",0.9,2,0
+524,"['Beijing, China', 'Tianjin, China']",0.9,1,0
+525,"['Beijing, China', 'Dalian, China']",0.9,3,0
+526,"['Beijing, China', 'Qingdao, China']",0.9,3,0
+527,"['Beijing, China', 'Nanjing, China']",0.92,4,0
+528,"['Shanghai, China', 'Suzhou, China']",0.9,1,0
+529,"['Ningbo, China', 'Shanghai, China']",0.9,1,0
+530,"['Hangzhou, China', 'Shanghai, China']",0.9,2,0
+531,"['Nanjing, China', 'Shanghai, China']",0.9,2,0
+532,"['Hong Kong', 'Shenzhen, China']",0.9,1,0
+533,"['Guangzhou, China', 'Shenzhen, China']",0.9,1,0
+534,"['Kaohsiung, Taiwan', 'Shenzhen, China']",0.9,3,0
+535,"['Shenzhen, China', 'Taichung, Taiwan']",0.92,4,0
+536,"['Guangzhou, China', 'Hong Kong']",0.9,1,0
+537,"['Hong Kong', 'Kaohsiung, Taiwan']",0.9,3,0
+538,"['Hong Kong', 'Taichung, Taiwan']",0.9,3,0
+539,"['Guangzhou, China', 'Kaohsiung, Taiwan']",0.92,4,0
+540,"['Guangzhou, China', 'Taichung, Taiwan']",0.92,4,0
+541,"['Hangzhou, China', 'Suzhou, China']",0.9,1,0
+542,"['Hangzhou, China', 'Ningbo, China']",0.9,1,0
+543,"['Hangzhou, China', 'Nanjing, China']",0.9,2,0
+544,"['Hefei, China', 'Nanjing, China']",0.9,1,0
+545,"['Nanjing, China', 'Suzhou, China']",0.9,2,0
+546,"['Bangalore, India', 'Chennai, India']",0.9,2,0
+547,"['Bangalore, India', 'Hyderabad, India']",0.9,3,0
+548,"['Bangalore, India', 'Colombo, Sri Lanka']",0.92,4,0
+549,"['Bangalore, India', 'Pune, India']",0.92,4,0
+550,"['Mumbai, India', 'Pune, India']",0.9,1,0
+551,"['Ahmedabad, India', 'Mumbai, India']",0.9,3,0
+552,"['Hyderabad, India', 'Mumbai, India']",0.9,3,0
+553,"['Bangalore, India', 'Mumbai, India']",0.92,4,0
+554,"['Delhi, India', 'Roorkee, India']",0.9,1,0
+555,"['Delhi, India', 'Kanpur, India']",0.9,3,0
+556,"['Delhi, India', 'Lahore, Pakistan']",0.9,3,0
+557,"['Delhi, India', 'Islamabad, Pakistan']",0.9,3,0
+558,"['Hyderabad, India', 'Pune, India']",0.9,3,0
+559,"['Chennai, India', 'Hyderabad, India']",0.9,3,0
+560,"['Chennai, India', 'Colombo, Sri Lanka']",0.9,3,0
+561,"['Chennai, India', 'Pune, India']",0.92,4,0
+562,"['Ahmedabad, India', 'Pune, India']",0.9,3,0
+563,"['Bangkok, Thailand', 'Phnom Penh, Cambodia']",0.9,3,0
+564,"['Bangkok, Thailand', 'Yangon, Myanmar']",0.9,3,0
+565,"['Bangkok, Thailand', 'Ho Chi Minh City, Vietnam']",0.92,4,0
+566,"['Bangkok, Thailand', 'Da Nang, Vietnam']",0.92,4,0
+567,"['Johor Bahru, Malaysia', 'Kuala Lumpur, Malaysia']",0.9,2,0
+568,"['Kuala Lumpur, Malaysia', 'Penang, Malaysia']",0.9,2,0
+569,"['Kuala Lumpur, Malaysia', 'Phnom Penh, Cambodia']",0.92,4,0
+570,"['Bandung, Indonesia', 'Jakarta, Indonesia']",0.9,1,0
+571,"['Jakarta, Indonesia', 'Surabaya, Indonesia']",0.9,3,0
+572,"['Jakarta, Indonesia', 'Johor Bahru, Malaysia']",0.92,4,0
+573,"['Manila, Philippines', 'Quezon City, Philippines']",0.9,1,0
+574,"['Cebu City, Philippines', 'Manila, Philippines']",0.9,3,0
+575,"['Kaohsiung, Taiwan', 'Manila, Philippines']",0.92,4,0
+576,"['Manila, Philippines', 'Taichung, Taiwan']",0.92,4,0
+577,"['Ho Chi Minh City, Vietnam', 'Phnom Penh, Cambodia']",0.9,2,0
+578,"['Da Nang, Vietnam', 'Ho Chi Minh City, Vietnam']",0.9,3,0
+579,"['Ho Chi Minh City, Vietnam', 'Penang, Malaysia']",0.92,4,0
+580,"['Da Nang, Vietnam', 'Hanoi, Vietnam']",0.9,3,0
+581,"['Guangzhou, China', 'Hanoi, Vietnam']",0.92,4,0
+582,"['Hanoi, Vietnam', 'Shenzhen, China']",0.92,4,0
+583,"['Hanoi, Vietnam', 'Hong Kong']",0.92,4,0
+584,"['Kyoto, Japan', 'Nagoya, Japan']",0.9,1,0
+585,"['Kobe, Japan', 'Nagoya, Japan']",0.9,2,0
+586,"['Nagoya, Japan', 'Yokohama, Japan']",0.9,2,0
+587,"['Kobe, Japan', 'Kyoto, Japan']",0.9,1,0
+588,"['Hiroshima, Japan', 'Kyoto, Japan']",0.9,2,0
+589,"['Abu Dhabi, UAE', 'Dubai, UAE']",0.9,1,0
+590,"['Dubai, UAE', 'Muscat, Oman']",0.9,3,0
+591,"['Doha, Qatar', 'Dubai, UAE']",0.9,3,0
+592,"['Dubai, UAE', 'Manama, Bahrain']",0.9,3,0
+593,"['Abu Dhabi, UAE', 'Doha, Qatar']",0.9,2,0
+594,"['Abu Dhabi, UAE', 'Muscat, Oman']",0.9,3,0
+595,"['Abu Dhabi, UAE', 'Manama, Bahrain']",0.9,3,0
+596,"['Doha, Qatar', 'Manama, Bahrain']",0.9,1,0
+597,"['Doha, Qatar', 'Riyadh, Saudi Arabia']",0.9,3,0
+598,"['Manama, Bahrain', 'Riyadh, Saudi Arabia']",0.9,3,0
+599,"['Kuwait City, Kuwait', 'Riyadh, Saudi Arabia']",0.9,3,0
+600,"['Abu Dhabi, UAE', 'Riyadh, Saudi Arabia']",0.92,4,0
+601,"['Cairo, Egypt', 'Tel Aviv, Israel']",0.9,3,0
+602,"['Cairo, Egypt', 'Jerusalem, Israel']",0.9,3,0
+603,"['Cairo, Egypt', 'Haifa, Israel']",0.9,3,0
+604,"['Amman, Jordan', 'Cairo, Egypt']",0.9,3,0
+605,"['Johannesburg, South Africa', 'Pretoria, South Africa']",0.9,1,0
+606,"['Durban, South Africa', 'Johannesburg, South Africa']",0.9,3,0
+607,"['Cape Town, South Africa', 'Johannesburg, South Africa']",0.92,4,0
+608,"['Dar es Salaam, Tanzania', 'Johannesburg, South Africa']",0.92,4,0
+609,"['Cape Town, South Africa', 'Durban, South Africa']",0.92,4,0
+610,"['Cape Town, South Africa', 'Pretoria, South Africa']",0.92,4,0
+611,"['Cape Town, South Africa', 'Dar es Salaam, Tanzania']",0.92,4,0
+612,"['Campinas, Brazil', 'Sao Paulo, Brazil']",0.9,1,0
+613,"['Curitiba, Brazil', 'Sao Paulo, Brazil']",0.9,3,0
+614,"['Rio de Janeiro, Brazil', 'Sao Paulo, Brazil']",0.9,3,0
+615,"['Belo Horizonte, Brazil', 'Sao Paulo, Brazil']",0.9,3,0
+616,"['Belo Horizonte, Brazil', 'Rio de Janeiro, Brazil']",0.9,3,0
+617,"['Campinas, Brazil', 'Rio de Janeiro, Brazil']",0.9,3,0
+618,"['Curitiba, Brazil', 'Rio de Janeiro, Brazil']",0.9,3,0
+619,"['Buenos Aires, Argentina', 'Montevideo, Uruguay']",0.9,2,0
+620,"['Buenos Aires, Argentina', 'Rosario, Argentina']",0.9,2,0
+621,"['Buenos Aires, Argentina', 'Cordoba, Argentina']",0.9,3,0
+622,"['Buenos Aires, Argentina', 'Porto Alegre, Brazil']",0.92,4,0
+623,"['Santiago, Chile', 'Valparaiso, Chile']",0.9,1,0
+624,"['Mendoza, Argentina', 'Santiago, Chile']",0.9,2,0
+625,"['Concepcion, Chile', 'Santiago, Chile']",0.9,3,0
+626,"['Cordoba, Argentina', 'Santiago, Chile']",0.9,3,0
+627,"['Bogota, Colombia', 'Medellin, Colombia']",0.9,2,0
+628,"['Bogota, Colombia', 'Cali, Colombia']",0.9,2,0
+629,"['Bogota, Colombia', 'Quito, Ecuador']",0.92,4,0
+630,"['Bogota, Colombia', 'Panama City, Panama']",0.92,4,0
+631,"['Guayaquil, Ecuador', 'Lima, Peru']",0.92,4,0
+632,"['Lima, Peru', 'Quito, Ecuador']",0.92,4,0
+633,"['Cali, Colombia', 'Lima, Peru']",0.92,4,0
+634,"['Bogota, Colombia', 'Lima, Peru']",0.92,4,0
+635,"['Mexico City, Mexico', 'Puebla, Mexico']",0.9,1,0
+636,"['Mexico City, Mexico', 'Queretaro, Mexico']",0.9,2,0
+637,"['Guadalajara, Mexico', 'Mexico City, Mexico']",0.9,3,0
+638,"['Mexico City, Mexico', 'Monterrey, Mexico']",0.92,4,0
+639,"['Guadalajara, Mexico', 'Queretaro, Mexico']",0.9,2,0
+640,"['Guadalajara, Mexico', 'Puebla, Mexico']",0.9,3,0
+641,"['Guadalajara, Mexico', 'Monterrey, Mexico']",0.9,3,0
+642,"['Monterrey, Mexico', 'San Antonio, TX']",0.9,3,0
+643,"['Monterrey, Mexico', 'Queretaro, Mexico']",0.9,3,0
+644,"['Austin, TX', 'Monterrey, Mexico']",0.9,3,0
+645,"['Chapel Hill, NC', 'Durham, NC']",0.9,1,0
+646,"['Blacksburg, VA', 'Durham, NC']",0.9,2,0
+647,"['San Jose, CA', 'Santa Cruz, CA']",0.9,1,0
+648,"['Irvine, CA', 'Long Beach, CA']",0.9,1,0
+649,"['Irvine, CA', 'Riverside, CA']",0.9,1,0
+650,"['Palo Alto, CA', 'Santa Cruz, CA']",0.9,1,0
+651,"['Pleasanton, CA', 'Santa Cruz, CA']",0.9,1,0
+652,"['San Francisco, CA', 'Santa Cruz, CA']",0.9,1,0
+653,"['Davis, CA', 'Sacramento, CA']",0.9,1,0
+654,"['Berkeley, CA', 'Davis, CA']",0.9,1,0
+655,"['Davis, CA', 'Pleasanton, CA']",0.9,1,0
+656,"['Davis, CA', 'San Francisco, CA']",0.9,1,0
+657,"['La Jolla, CA', 'Tijuana, Mexico']",0.9,1,0
+658,"['Irvine, CA', 'La Jolla, CA']",0.9,1,0
+659,"['Rochester, NY', 'Syracuse, NY']",0.9,1,0
+660,"['Kingston, Canada', 'Rochester, NY']",0.9,1,0
+661,"['Kingston, Canada', 'Syracuse, NY']",0.9,1,0
+662,"['Albany, NY', 'Hartford, CT']",0.9,1,1
+663,"['Albany, NY', 'New Haven, CT']",0.9,2,1
+664,"['Albany, NY', 'Worcester, MA']",0.9,2,0
+665,"['Hartford, CT', 'Worcester, MA']",0.9,1,0
+666,"['Burlington, VT', 'Hanover, NH']",0.9,1,0
+667,"['Hanover, NH', 'Portland, ME']",0.9,2,0
+668,"['Hanover, NH', 'Worcester, MA']",0.9,2,0
+669,"['Albany, NY', 'Hanover, NH']",0.9,2,0
+670,"['Burlington, VT', 'Sherbrooke, Canada']",0.9,1,0
+671,"['Albany, NY', 'Burlington, VT']",0.9,2,0
+672,"['Boston, MA', 'Portland, ME']",0.9,1,0
+673,"['Cambridge, MA', 'Portland, ME']",0.9,1,0
+674,"['Portland, ME', 'Worcester, MA']",0.9,2,0
+675,"['Baltimore, MD', 'State College, PA']",0.9,2,0
+676,"['Bethlehem, PA', 'State College, PA']",0.9,2,0
+677,"['College Park, MD', 'State College, PA']",0.9,2,0
+678,"['Blacksburg, VA', 'Chapel Hill, NC']",0.9,2,0
+679,"['Blacksburg, VA', 'Charlottesville, VA']",0.9,2,0
+680,"['Gainesville, FL', 'Tallahassee, FL']",0.9,2,0
+681,"['Orlando, FL', 'Tallahassee, FL']",0.9,3,0
+682,"['Lexington, KY', 'Louisville, KY']",0.9,1,0
+683,"['Knoxville, TN', 'Lexington, KY']",0.9,2,0
+684,"['Birmingham, AL', 'Huntsville, AL']",0.9,1,0
+685,"['Birmingham, AL', 'Chattanooga, TN']",0.9,2,0
+686,"['Birmingham, AL', 'Nashville, TN']",0.9,2,0
+687,"['Baton Rouge, LA', 'Houston, TX']",0.9,3,0
+688,"['Baton Rouge, LA', 'Little Rock, AR']",0.9,3,0
+689,"['Baton Rouge, LA', 'Memphis, TN']",0.9,3,0
+690,"['Little Rock, AR', 'Tulsa, OK']",0.9,3,0
+691,"['Little Rock, AR', 'St. Louis, MO']",0.9,3,0
+692,"['Dallas, TX', 'Little Rock, AR']",0.9,3,0
+693,"['Dallas, TX', 'Tulsa, OK']",0.9,3,0
+694,"['El Paso, TX', 'Lubbock, TX']",0.9,3,0
+695,"['El Paso, TX', 'Tempe, AZ']",0.9,3,0
+696,"['Fort Worth, TX', 'Waco, TX']",0.9,1,0
+697,"['Fort Worth, TX', 'Lubbock, TX']",0.9,3,0
+698,"['Lubbock, TX', 'Oklahoma City, OK']",0.9,3,0
+699,"['Colorado Springs, CO', 'Fort Collins, CO']",0.9,2,0
+700,"['Fort Collins, CO', 'Provo, UT']",0.9,3,0
+701,"['Las Vegas, NV', 'Tempe, AZ']",0.9,3,0
+702,"['Tempe, AZ', 'Tijuana, Mexico']",0.9,3,0
+703,"['Las Vegas, NV', 'Provo, UT']",0.9,3,0
+704,"['Bothell, WA', 'Spokane, WA']",0.9,3,0
+705,"['Seattle, WA', 'Spokane, WA']",0.9,3,0
+706,"['Spokane, WA', 'Victoria, Canada']",0.9,3,0
+707,"['Eugene, OR', 'Seattle, WA']",0.9,3,0
+708,"['Bothell, WA', 'Eugene, OR']",0.9,3,0
+709,"['Eugene, OR', 'Victoria, Canada']",0.9,3,0
+710,"['Reno, NV', 'Sacramento, CA']",0.9,2,0
+711,"['Davis, CA', 'Reno, NV']",0.9,2,0
+712,"['Pleasanton, CA', 'Reno, NV']",0.9,2,0
+713,"['Berkeley, CA', 'Reno, NV']",0.9,2,0
+714,"['Berkeley, CA', 'Sacramento, CA']",0.9,1,0
+715,"['Pleasanton, CA', 'Sacramento, CA']",0.9,1,0
+716,"['Sacramento, CA', 'San Francisco, CA']",0.9,1,0
+717,"['Bakersfield, CA', 'Fresno, CA']",0.9,2,0
+718,"['Fresno, CA', 'San Jose, CA']",0.9,2,0
+719,"['Fresno, CA', 'Santa Cruz, CA']",0.9,2,0
+720,"['Fresno, CA', 'Pleasanton, CA']",0.9,2,0
+721,"['Bakersfield, CA', 'Pasadena, CA']",0.9,1,0
+722,"['Bakersfield, CA', 'Los Angeles, CA']",0.9,2,0
+723,"['Long Beach, CA', 'Riverside, CA']",0.9,1,0
+724,"['Halifax, Canada', ""St. John's, Canada""]",0.92,4,2
+725,"['Quebec City, Canada', ""St. John's, Canada""]",0.92,4,0
+726,"['Portland, ME', ""St. John's, Canada""]",0.92,4,0
+727,"['Sherbrooke, Canada', ""St. John's, Canada""]",0.92,4,0
+728,"['Hamilton, Canada', 'London, Canada']",0.9,1,0
+729,"['Hanover, NH', 'Sherbrooke, Canada']",0.9,2,0
+730,"['Liverpool, UK', 'Sheffield, UK']",0.9,1,0
+731,"['Birmingham, UK', 'Liverpool, UK']",0.9,1,0
+732,"['Leeds, UK', 'Newcastle, UK']",0.9,1,0
+733,"['Manchester, UK', 'Newcastle, UK']",0.9,2,0
+734,"['Newcastle, UK', 'Sheffield, UK']",0.9,2,0
+735,"['Nottingham, UK', 'Sheffield, UK']",0.9,1,0
+736,"['Belfast, UK', 'Liverpool, UK']",0.9,2,0
+737,"['Cardiff, UK', 'Oxford, UK']",0.9,1,0
+738,"['Cardiff, UK', 'Southampton, UK']",0.9,1,0
+739,"['Birmingham, UK', 'Cardiff, UK']",0.9,1,0
+740,"['Cork, Ireland', 'Galway, Ireland']",0.9,1,0
+741,"['Belfast, UK', 'Cork, Ireland']",0.9,3,0
+742,"['Cardiff, UK', 'Cork, Ireland']",0.9,3,0
+743,"['Belfast, UK', 'Galway, Ireland']",0.9,2,0
+744,"['Galway, Ireland', 'Liverpool, UK']",0.9,3,0
+745,"['Bordeaux, France', 'Nantes, France']",0.9,2,0
+746,"['Bordeaux, France', 'Rennes, France']",0.9,3,0
+747,"['Nantes, France', 'Rennes, France']",0.9,1,0
+748,"['Nantes, France', 'Paris, France']",0.9,3,0
+749,"['Nantes, France', 'Southampton, UK']",0.9,3,0
+750,"['Ghent, Belgium', 'Lille, France']",0.9,1,0
+751,"['Antwerp, Belgium', 'Lille, France']",0.9,1,0
+752,"['Leuven, Belgium', 'Lille, France']",0.9,1,0
+753,"['Grenoble, France', 'Montpellier, France']",0.9,2,0
+754,"['Lyon, France', 'Montpellier, France']",0.9,2,0
+755,"['Paris, France', 'Rennes, France']",0.9,2,0
+756,"['Rennes, France', 'Southampton, UK']",0.9,2,0
+757,"['Bonn, Germany', 'Dusseldorf, Germany']",0.9,1,0
+758,"['Bonn, Germany', 'Essen, Germany']",0.9,1,0
+759,"['Dusseldorf, Germany', 'Essen, Germany']",0.9,1,0
+760,"['Dortmund, Germany', 'Dusseldorf, Germany']",0.9,1,0
+761,"['Bremen, Germany', 'Hanover, Germany']",0.9,1,0
+762,"['Dortmund, Germany', 'Hanover, Germany']",0.9,2,0
+763,"['Essen, Germany', 'Hanover, Germany']",0.9,2,0
+764,"['Hanover, Germany', 'Leipzig, Germany']",0.9,2,0
+765,"['Frankfurt, Germany', 'Nuremberg, Germany']",0.9,2,0
+766,"['Dortmund, Germany', 'Essen, Germany']",0.9,1,0
+767,"['Cologne, Germany', 'Dortmund, Germany']",0.9,1,0
+768,"['Bonn, Germany', 'Dortmund, Germany']",0.9,1,0
+769,"['Bremen, Germany', 'Groningen, Netherlands']",0.9,1,0
+770,"['Bremen, Germany', 'Dortmund, Germany']",0.9,2,0
+771,"['Linz, Austria', 'Salzburg, Austria']",0.9,1,0
+772,"['Graz, Austria', 'Salzburg, Austria']",0.9,2,0
+773,"['Antwerp, Belgium', 'Leuven, Belgium']",0.9,1,0
+774,"['Antwerp, Belgium', 'Ghent, Belgium']",0.9,1,0
+775,"['Ghent, Belgium', 'Leuven, Belgium']",0.9,1,0
+776,"['Leiden, Netherlands', 'Utrecht, Netherlands']",0.9,1,0
+777,"['Amsterdam, Netherlands', 'Groningen, Netherlands']",0.9,1,0
+778,"['Groningen, Netherlands', 'Utrecht, Netherlands']",0.9,1,0
+779,"['Groningen, Netherlands', 'Leiden, Netherlands']",0.9,2,0
+780,"['Aachen, Germany', 'Luxembourg City']",0.9,1,0
+781,"['Bonn, Germany', 'Luxembourg City']",0.9,1,0
+782,"['Cologne, Germany', 'Luxembourg City']",0.9,1,0
+783,"['Luxembourg City', 'Strasbourg, France']",0.9,2,0
+784,"['Bern, Switzerland', 'Lausanne, Switzerland']",0.9,1,0
+785,"['Lund, Sweden', 'Malmo, Sweden']",0.9,1,0
+786,"['Aarhus, Denmark', 'Malmo, Sweden']",0.9,2,0
+787,"['Aarhus, Denmark', 'Lund, Sweden']",0.9,2,0
+788,"['Bergen, Norway', 'Trondheim, Norway']",0.9,3,0
+789,"['Bergen, Norway', 'Gothenburg, Sweden']",0.9,3,0
+790,"['Aarhus, Denmark', 'Bergen, Norway']",0.9,3,0
+791,"['Trondheim, Norway', 'Uppsala, Sweden']",0.9,3,0
+792,"['Stockholm, Sweden', 'Trondheim, Norway']",0.9,3,0
+793,"['Oulu, Finland', 'Tampere, Finland']",0.9,3,0
+794,"['Oulu, Finland', 'Turku, Finland']",0.9,3,0
+795,"['Helsinki, Finland', 'Oulu, Finland']",0.9,3,0
+796,"['Oulu, Finland', 'St. Petersburg, Russia']",0.9,3,0
+797,"['Riga, Latvia', 'Vilnius, Lithuania']",0.9,2,0
+798,"['Helsinki, Finland', 'Riga, Latvia']",0.9,3,0
+799,"['Minsk, Belarus', 'Riga, Latvia']",0.9,3,0
+800,"['Minsk, Belarus', 'Vilnius, Lithuania']",0.9,2,0
+801,"['Gdansk, Poland', 'Vilnius, Lithuania']",0.9,3,0
+802,"['Kyiv, Ukraine', 'Minsk, Belarus']",0.9,3,0
+803,"['Minsk, Belarus', 'Warsaw, Poland']",0.9,3,0
+804,"['Kharkiv, Ukraine', 'Kyiv, Ukraine']",0.9,3,0
+805,"['Kyiv, Ukraine', 'Lviv, Ukraine']",0.9,3,0
+806,"['Kyiv, Ukraine', 'Vilnius, Lithuania']",0.9,3,0
+807,"['Budapest, Hungary', 'Lviv, Ukraine']",0.9,3,0
+808,"['Kharkiv, Ukraine', 'Moscow, Russia']",0.9,3,0
+809,"['Kharkiv, Ukraine', 'Minsk, Belarus']",0.92,4,0
+810,"['Kharkiv, Ukraine', 'Lviv, Ukraine']",0.92,4,0
+811,"['Moscow, Russia', 'St. Petersburg, Russia']",0.9,3,0
+812,"['Minsk, Belarus', 'Moscow, Russia']",0.9,3,0
+813,"['Kyiv, Ukraine', 'Moscow, Russia']",0.92,4,0
+814,"['St. Petersburg, Russia', 'Tallinn, Estonia']",0.9,2,0
+815,"['St. Petersburg, Russia', 'Tampere, Finland']",0.9,3,0
+816,"['St. Petersburg, Russia', 'Turku, Finland']",0.9,3,0
+817,"['Islamabad, Pakistan', 'Novosibirsk, Russia']",0.92,4,0
+818,"['Lahore, Pakistan', 'Novosibirsk, Russia']",0.92,4,0
+819,"['Moscow, Russia', 'Novosibirsk, Russia']",0.92,4,0
+820,"['Novosibirsk, Russia', 'Roorkee, India']",0.92,4,0
+821,"['Izmir, Turkey', 'Thessaloniki, Greece']",0.9,3,0
+822,"['Istanbul, Turkey', 'Izmir, Turkey']",0.9,2,2
+823,"['Ankara, Turkey', 'Istanbul, Turkey']",0.9,3,0
+824,"['Ankara, Turkey', 'Izmir, Turkey']",0.9,3,0
+825,"['Ankara, Turkey', 'Beirut, Lebanon']",0.92,4,0
+826,"['Ankara, Turkey', 'Bucharest, Romania']",0.92,4,0
+827,"['Daegu, South Korea', 'Incheon, South Korea']",0.9,2,0
+828,"['Gwangju, South Korea', 'Incheon, South Korea']",0.9,2,0
+829,"['Daegu, South Korea', 'Gwangju, South Korea']",0.9,2,0
+830,"['Sendai, Japan', 'Yokohama, Japan']",0.9,3,0
+831,"['Kyoto, Japan', 'Yokohama, Japan']",0.9,3,0
+832,"['Hiroshima, Japan', 'Kobe, Japan']",0.9,2,0
+833,"['Nagoya, Japan', 'Sendai, Japan']",0.9,3,0
+834,"['Kaohsiung, Taiwan', 'Taichung, Taiwan']",0.9,2,0
+835,"['Hsinchu, Taiwan', 'Kaohsiung, Taiwan']",0.9,2,0
+836,"['Hsinchu, Taiwan', 'Taichung, Taiwan']",0.9,1,0
+837,"['Ningbo, China', 'Taichung, Taiwan']",0.9,3,0
+838,"['Hsinchu, Taiwan', 'Ningbo, China']",0.9,3,0
+839,"['Hefei, China', 'Wuhan, China']",0.9,2,0
+840,"['Hefei, China', 'Suzhou, China']",0.9,2,0
+841,"['Hangzhou, China', 'Hefei, China']",0.9,3,0
+842,"['Nanjing, China', 'Wuhan, China']",0.9,3,0
+843,"['Hangzhou, China', 'Wuhan, China']",0.9,3,0
+844,"['Suzhou, China', 'Wuhan, China']",0.9,3,0
+845,"['Chengdu, China', 'Chongqing, China']",0.9,2,0
+846,"['Chengdu, China', ""Xi'an, China""]",0.9,3,0
+847,"['Chengdu, China', 'Wuhan, China']",0.92,4,0
+848,"['Chengdu, China', 'Hanoi, Vietnam']",0.92,4,0
+849,"['Chongqing, China', ""Xi'an, China""]",0.9,3,0
+850,"['Wuhan, China', ""Xi'an, China""]",0.9,3,0
+851,"['Hefei, China', ""Xi'an, China""]",0.92,4,0
+852,"['Ningbo, China', 'Suzhou, China']",0.9,2,0
+853,"['Dalian, China', 'Tianjin, China']",0.9,3,0
+854,"['Qingdao, China', 'Tianjin, China']",0.9,3,0
+855,"['Nanjing, China', 'Tianjin, China']",0.92,4,0
+856,"['Chongqing, China', 'Wuhan, China']",0.92,4,0
+857,"['Chongqing, China', 'Hanoi, Vietnam']",0.92,4,0
+858,"['Dalian, China', 'Qingdao, China']",0.9,3,0
+859,"['Nanjing, China', 'Qingdao, China']",0.9,3,0
+860,"['Qingdao, China', 'Suzhou, China']",0.9,3,0
+861,"['Dalian, China', 'Incheon, South Korea']",0.9,3,0
+862,"['Nanjing, China', 'Ningbo, China']",0.9,3,0
+863,"['Kharagpur, India', 'Kolkata, India']",0.9,1,0
+864,"['Dhaka, Bangladesh', 'Kolkata, India']",0.9,2,0
+865,"['Kathmandu, Nepal', 'Kolkata, India']",0.9,3,0
+866,"['Kanpur, India', 'Kolkata, India']",0.92,4,0
+867,"['Ahmedabad, India', 'Karachi, Pakistan']",0.9,3,0
+868,"['Ahmedabad, India', 'Delhi, India']",0.92,4,0
+869,"['Kanpur, India', 'Roorkee, India']",0.9,3,0
+870,"['Kanpur, India', 'Kathmandu, Nepal']",0.9,3,0
+871,"['Kanpur, India', 'Lahore, Pakistan']",0.92,4,0
+872,"['Dhaka, Bangladesh', 'Kharagpur, India']",0.9,3,0
+873,"['Kathmandu, Nepal', 'Kharagpur, India']",0.9,3,0
+874,"['Kanpur, India', 'Kharagpur, India']",0.92,4,0
+875,"['Lahore, Pakistan', 'Roorkee, India']",0.9,3,0
+876,"['Islamabad, Pakistan', 'Roorkee, India']",0.9,3,0
+877,"['Islamabad, Pakistan', 'Lahore, Pakistan']",0.9,2,0
+878,"['Karachi, Pakistan', 'Mumbai, India']",0.92,4,0
+879,"['Karachi, Pakistan', 'Muscat, Oman']",0.92,4,0
+880,"['Karachi, Pakistan', 'Pune, India']",0.92,4,0
+881,"['Islamabad, Pakistan', 'Kanpur, India']",0.92,4,0
+882,"['Dhaka, Bangladesh', 'Kathmandu, Nepal']",0.9,3,0
+883,"['Dhaka, Bangladesh', 'Yangon, Myanmar']",0.92,4,0
+884,"['Colombo, Sri Lanka', 'Hyderabad, India']",0.92,4,0
+885,"['Colombo, Sri Lanka', 'Pune, India']",0.92,4,0
+886,"['Kolkata, India', 'Yangon, Myanmar']",0.92,4,0
+887,"['Phnom Penh, Cambodia', 'Yangon, Myanmar']",0.92,4,0
+888,"['Da Nang, Vietnam', 'Phnom Penh, Cambodia']",0.9,3,0
+889,"['Penang, Malaysia', 'Phnom Penh, Cambodia']",0.92,4,0
+890,"['Johor Bahru, Malaysia', 'Penang, Malaysia']",0.9,3,0
+891,"['Bandung, Indonesia', 'Surabaya, Indonesia']",0.9,3,0
+892,"['Singapore', 'Surabaya, Indonesia']",0.92,4,0
+893,"['Johor Bahru, Malaysia', 'Surabaya, Indonesia']",0.92,4,0
+894,"['Bandung, Indonesia', 'Singapore']",0.92,4,0
+895,"['Bandung, Indonesia', 'Johor Bahru, Malaysia']",0.92,4,0
+896,"['Cebu City, Philippines', 'Quezon City, Philippines']",0.9,3,0
+897,"['Cebu City, Philippines', 'Kaohsiung, Taiwan']",0.92,4,0
+898,"['Cebu City, Philippines', 'Taichung, Taiwan']",0.92,4,0
+899,"['Kaohsiung, Taiwan', 'Quezon City, Philippines']",0.92,4,0
+900,"['Quezon City, Philippines', 'Taichung, Taiwan']",0.92,4,0
+901,"['Adelaide, Australia', 'Canberra, Australia']",0.92,4,0
+902,"['Adelaide, Australia', 'Sydney, Australia']",0.92,4,0
+903,"['Adelaide, Australia', 'Gold Coast, Australia']",0.92,4,0
+904,"['Canberra, Australia', 'Gold Coast, Australia']",0.92,4,0
+905,"['Christchurch, New Zealand', 'Sydney, Australia']",0.92,4,0
+906,"['Canberra, Australia', 'Christchurch, New Zealand']",0.92,4,0
+907,"['Haifa, Israel', 'Jerusalem, Israel']",0.9,1,0
+908,"['Amman, Jordan', 'Haifa, Israel']",0.9,1,0
+909,"['Beirut, Lebanon', 'Haifa, Israel']",0.9,1,0
+910,"['Amman, Jordan', 'Jerusalem, Israel']",0.9,1,0
+911,"['Beirut, Lebanon', 'Jerusalem, Israel']",0.9,2,0
+912,"['Jeddah, Saudi Arabia', 'Riyadh, Saudi Arabia']",0.92,4,0
+913,"['Amman, Jordan', 'Jeddah, Saudi Arabia']",0.92,4,0
+914,"['Jeddah, Saudi Arabia', 'Jerusalem, Israel']",0.92,4,0
+915,"['Jeddah, Saudi Arabia', 'Kuwait City, Kuwait']",0.92,4,0
+916,"['Kuwait City, Kuwait', 'Manama, Bahrain']",0.9,3,0
+917,"['Doha, Qatar', 'Kuwait City, Kuwait']",0.9,3,0
+918,"['Abu Dhabi, UAE', 'Kuwait City, Kuwait']",0.92,4,0
+919,"['Doha, Qatar', 'Muscat, Oman']",0.92,4,0
+920,"['Manama, Bahrain', 'Muscat, Oman']",0.92,4,0
+921,"['Amman, Jordan', 'Beirut, Lebanon']",0.9,2,0
+922,"['Casablanca, Morocco', 'Rabat, Morocco']",0.9,1,0
+923,"['Casablanca, Morocco', 'Lisbon, Portugal']",0.9,3,0
+924,"['Casablanca, Morocco', 'Madrid, Spain']",0.92,4,0
+925,"['Madrid, Spain', 'Rabat, Morocco']",0.92,4,0
+926,"['Rome, Italy', 'Tunis, Tunisia']",0.9,3,0
+927,"['Algiers, Algeria', 'Tunis, Tunisia']",0.9,3,0
+928,"['Florence, Italy', 'Tunis, Tunisia']",0.92,4,0
+929,"['Nice, France', 'Tunis, Tunisia']",0.92,4,0
+930,"['Algiers, Algeria', 'Barcelona, Spain']",0.9,3,0
+931,"['Algiers, Algeria', 'Madrid, Spain']",0.92,4,0
+932,"['Accra, Ghana', 'Lagos, Nigeria']",0.9,3,0
+933,"['Dakar, Senegal', 'Lagos, Nigeria']",0.92,4,0
+934,"['Casablanca, Morocco', 'Lagos, Nigeria']",0.92,4,0
+935,"['Lagos, Nigeria', 'Rabat, Morocco']",0.92,4,0
+936,"['Dar es Salaam, Tanzania', 'Nairobi, Kenya']",0.9,3,0
+937,"['Addis Ababa, Ethiopia', 'Nairobi, Kenya']",0.92,4,0
+938,"['Jeddah, Saudi Arabia', 'Nairobi, Kenya']",0.92,4,0
+939,"['Nairobi, Kenya', 'Pretoria, South Africa']",0.92,4,0
+940,"['Addis Ababa, Ethiopia', 'Jeddah, Saudi Arabia']",0.92,4,0
+941,"['Addis Ababa, Ethiopia', 'Dar es Salaam, Tanzania']",0.92,4,0
+942,"['Addis Ababa, Ethiopia', 'Riyadh, Saudi Arabia']",0.92,4,0
+943,"['Dar es Salaam, Tanzania', 'Pretoria, South Africa']",0.92,4,0
+944,"['Durban, South Africa', 'Pretoria, South Africa']",0.9,3,0
+945,"['Dar es Salaam, Tanzania', 'Durban, South Africa']",0.92,4,0
+946,"['Accra, Ghana', 'Dakar, Senegal']",0.92,4,0
+947,"['Accra, Ghana', 'Casablanca, Morocco']",0.92,4,0
+948,"['Accra, Ghana', 'Rabat, Morocco']",0.92,4,0
+949,"['Casablanca, Morocco', 'Dakar, Senegal']",0.92,4,0
+950,"['Dakar, Senegal', 'Rabat, Morocco']",0.92,4,0
+951,"['Dar es Salaam, Tanzania', 'Mauritius']",0.92,4,0
+952,"['Durban, South Africa', 'Mauritius']",0.92,4,0
+953,"['Mauritius', 'Pretoria, South Africa']",0.92,4,0
+954,"['Mauritius', 'Nairobi, Kenya']",0.92,4,0
+955,"['Campinas, Brazil', 'Curitiba, Brazil']",0.9,3,0
+956,"['Curitiba, Brazil', 'Porto Alegre, Brazil']",0.9,3,0
+957,"['Belo Horizonte, Brazil', 'Campinas, Brazil']",0.9,3,0
+958,"['Belo Horizonte, Brazil', 'Brasilia, Brazil']",0.9,3,0
+959,"['Brasilia, Brazil', 'Campinas, Brazil']",0.92,4,0
+960,"['Brasilia, Brazil', 'Sao Paulo, Brazil']",0.92,4,0
+961,"['Brasilia, Brazil', 'Rio de Janeiro, Brazil']",0.92,4,0
+962,"['Montevideo, Uruguay', 'Porto Alegre, Brazil']",0.92,4,0
+963,"['Porto Alegre, Brazil', 'Sao Paulo, Brazil']",0.92,4,0
+964,"['Cordoba, Argentina', 'Rosario, Argentina']",0.9,3,0
+965,"['Cordoba, Argentina', 'Mendoza, Argentina']",0.9,3,0
+966,"['Mendoza, Argentina', 'Valparaiso, Chile']",0.9,2,0
+967,"['Concepcion, Chile', 'Mendoza, Argentina']",0.9,3,0
+968,"['Montevideo, Uruguay', 'Rosario, Argentina']",0.9,3,0
+969,"['Mendoza, Argentina', 'Rosario, Argentina']",0.92,4,0
+970,"['Cordoba, Argentina', 'Montevideo, Uruguay']",0.92,4,0
+971,"['Concepcion, Chile', 'Valparaiso, Chile']",0.9,3,0
+972,"['Cordoba, Argentina', 'Valparaiso, Chile']",0.92,4,0
+973,"['Concepcion, Chile', 'Cordoba, Argentina']",0.92,4,0
+974,"['Cali, Colombia', 'Medellin, Colombia']",0.9,3,0
+975,"['Medellin, Colombia', 'Panama City, Panama']",0.9,3,0
+976,"['Medellin, Colombia', 'Quito, Ecuador']",0.92,4,0
+977,"['Cali, Colombia', 'Quito, Ecuador']",0.9,3,0
+978,"['Cali, Colombia', 'Panama City, Panama']",0.9,3,0
+979,"['Guayaquil, Ecuador', 'Quito, Ecuador']",0.9,2,0
+980,"['Cali, Colombia', 'Guayaquil, Ecuador']",0.92,4,0
+981,"['Bogota, Colombia', 'Guayaquil, Ecuador']",0.92,4,0
+982,"['Guayaquil, Ecuador', 'Medellin, Colombia']",0.92,4,0
+983,"['Caracas, Venezuela', 'San Juan, Puerto Rico']",0.92,4,0
+984,"['Caracas, Venezuela', 'Santo Domingo, Dominican Republic']",0.92,4,0
+985,"['Bogota, Colombia', 'Caracas, Venezuela']",0.92,4,0
+986,"['Caracas, Venezuela', 'Medellin, Colombia']",0.92,4,0
+987,"['Panama City, Panama', 'San Jose, Costa Rica']",0.9,3,0
+988,"['Guatemala City, Guatemala', 'San Jose, Costa Rica']",0.92,4,0
+989,"['Medellin, Colombia', 'San Jose, Costa Rica']",0.92,4,0
+990,"['Cali, Colombia', 'San Jose, Costa Rica']",0.92,4,0
+991,"['Cancun, Mexico', 'Guatemala City, Guatemala']",0.92,4,0
+992,"['Guatemala City, Guatemala', 'Puebla, Mexico']",0.92,4,0
+993,"['Guatemala City, Guatemala', 'Mexico City, Mexico']",0.92,4,0
+994,"['Cancun, Mexico', 'Havana, Cuba']",0.9,3,0
+995,"['Havana, Cuba', 'Tampa, FL']",0.9,3,0
+996,"['Havana, Cuba', 'Nassau, Bahamas']",0.9,3,0
+997,"['San Juan, Puerto Rico', 'Santo Domingo, Dominican Republic']",0.9,3,0
+998,"['Kingston, Jamaica', 'Santo Domingo, Dominican Republic']",0.92,4,0
+999,"['Nassau, Bahamas', 'Santo Domingo, Dominican Republic']",0.92,4,0
+1000,"['Kingston, Jamaica', 'San Juan, Puerto Rico']",0.92,4,0
+1001,"['Nassau, Bahamas', 'San Juan, Puerto Rico']",0.92,4,0
+1002,"['Kingston, Jamaica', 'Nassau, Bahamas']",0.92,4,0
+1003,"['Havana, Cuba', 'Kingston, Jamaica']",0.92,4,0
+1004,"['Kingston, Jamaica', 'Miami, FL']",0.92,4,0
+1005,"['Nassau, Bahamas', 'Orlando, FL']",0.9,3,0
+1006,"['Nassau, Bahamas', 'Tampa, FL']",0.9,3,0
+1007,"['Irvine, CA', 'Tijuana, Mexico']",0.9,1,0
+1008,"['Cancun, Mexico', 'Miami, FL']",0.92,4,0
+1009,"['Cancun, Mexico', 'Tampa, FL']",0.92,4,0
+1010,"['Puebla, Mexico', 'Queretaro, Mexico']",0.9,2,0
+1011,"['Monterrey, Mexico', 'Puebla, Mexico']",0.92,4,0
+1012,"['Boston, MA', 'Dublin, Ireland']",0.92,4,2
+1013,"['Hong Kong', 'San Francisco, CA']",0.94,5,0
+1014,"['Seattle, WA', 'Tokyo, Japan']",0.94,5,0
+1015,"['Honolulu, HI', 'Los Angeles, CA']",0.92,4,6
+1016,"['Los Angeles, CA', 'Sydney, Australia']",0.94,5,0
+1017,"['Los Angeles, CA', 'Tokyo, Japan']",0.94,5,0
+1018,"['Bogota, Colombia', 'Miami, FL']",0.92,4,0
+1019,"['Lisbon, Portugal', 'Miami, FL']",0.94,5,0
+1020,"['Miami, FL', 'Panama City, Panama']",0.92,4,0
+1021,"['Miami, FL', 'San Juan, Puerto Rico']",0.92,4,0
+1022,"['Miami, FL', 'Sao Paulo, Brazil']",0.94,5,0
+1023,"['London, UK', 'New York, NY']",0.92,4,1
+1024,"['Halifax, Canada', 'Southampton, UK']",0.92,4,4
+1025,"['Amsterdam, Netherlands', 'London, UK']",0.9,3,1
+1026,"['London, UK', 'Paris, France']",0.9,3,1
+1027,"['Cairo, Egypt', 'Marseille, France']",0.92,4,4
+1028,"['Casablanca, Morocco', 'Marseille, France']",0.92,4,0
+1029,"['Amsterdam, Netherlands', 'Copenhagen, Denmark']",0.9,3,1
+1030,"['Cape Town, South Africa', 'Lisbon, Portugal']",0.94,5,0
+1031,"['Lagos, Nigeria', 'Lisbon, Portugal']",0.92,4,0
+1032,"['Lisbon, Portugal', 'Rio de Janeiro, Brazil']",0.94,5,0
+1033,"['Busan, South Korea', 'Tokyo, Japan']",0.92,4,0
+1034,"['Hong Kong', 'Tokyo, Japan']",0.92,4,0
+1035,"['Honolulu, HI', 'Tokyo, Japan']",0.92,4,4
+1036,"['Shanghai, China', 'Tokyo, Japan']",0.92,4,0
+1037,"['Singapore', 'Tokyo, Japan']",0.92,4,4
+1038,"['Hong Kong', 'Taipei, Taiwan']",0.92,4,0
+1039,"['Chennai, India', 'Singapore']",0.92,4,0
+1040,"['Dubai, UAE', 'Singapore']",0.92,4,0
+1041,"['Hong Kong', 'Singapore']",0.92,4,0
+1042,"['Mumbai, India', 'Singapore']",0.92,4,4
+1043,"['Perth, Australia', 'Singapore']",0.92,4,0
+1044,"['Singapore', 'Sydney, Australia']",0.94,5,0
+1045,"['Honolulu, HI', 'Sydney, Australia']",0.94,5,0
+1046,"['Hong Kong', 'Manila, Philippines']",0.92,4,0
+1047,"['Cairo, Egypt', 'Mumbai, India']",0.92,4,4
+1048,"['Dubai, UAE', 'Mumbai, India']",0.92,4,0
+1049,"['Mauritius', 'Mumbai, India']",0.92,4,0
+1050,"['Mumbai, India', 'Muscat, Oman']",0.92,4,0
+1051,"['Mumbai, India', 'Nairobi, Kenya']",0.92,4,0
+1052,"['Cairo, Egypt', 'Jeddah, Saudi Arabia']",0.92,4,0
+1053,"['Buenos Aires, Argentina', 'Sao Paulo, Brazil']",0.92,4,0
+1054,"['Dakar, Senegal', 'Sao Paulo, Brazil']",0.92,4,0
+1055,"['Buenos Aires, Argentina', 'Santiago, Chile']",0.92,4,0
+1056,"['Lima, Peru', 'Santiago, Chile']",0.92,4,0

@@ -1,0 +1,401 @@
+,node_id,utility_qubits,bonus_bell_pairs,capacity
+0,"College Park, MD",1,2,4
+1,"Bothell, WA",1,0,4
+2,"Rome, NY",1,0,4
+3,"Chattanooga, TN",2,0,5
+4,"Chicago, IL",5,2,10
+5,"Toronto, Canada",5,1,10
+6,"Vista, CA",1,0,4
+7,"Boston, MA",4,2,9
+8,"San Francisco, CA",4,1,11
+9,"Pleasanton, CA",1,0,4
+10,"Denver, CO",4,0,8
+11,"Seattle, WA",4,1,9
+12,"Portland, OR",3,0,7
+13,"Los Angeles, CA",5,1,10
+14,"San Diego, CA",4,0,7
+15,"Las Vegas, NV",3,0,6
+16,"Salt Lake City, UT",2,0,7
+17,"Phoenix, AZ",4,0,7
+18,"Austin, TX",4,0,9
+19,"Dallas, TX",4,0,9
+20,"Houston, TX",5,0,9
+21,"San Antonio, TX",4,0,6
+22,"New Orleans, LA",3,0,5
+23,"Atlanta, GA",4,0,9
+24,"Miami, FL",4,0,8
+25,"Orlando, FL",3,0,6
+26,"Raleigh, NC",3,0,7
+27,"Charlotte, NC",3,0,7
+28,"Nashville, TN",3,0,6
+29,"Washington, DC",4,0,9
+30,"Philadelphia, PA",4,0,8
+31,"New York, NY",5,1,11
+32,"Pittsburgh, PA",3,0,6
+33,"Detroit, MI",4,0,7
+34,"Columbus, OH",3,0,6
+35,"Indianapolis, IN",3,0,6
+36,"St. Louis, MO",3,0,6
+37,"Kansas City, MO",3,0,6
+38,"Minneapolis, MN",3,0,7
+39,"Vancouver, Canada",4,0,8
+40,"Calgary, Canada",3,0,7
+41,"Edmonton, Canada",3,0,6
+42,"Winnipeg, Canada",2,0,5
+43,"Montreal, Canada",4,1,8
+44,"Ottawa, Canada",3,0,7
+45,"Quebec City, Canada",2,0,5
+46,"Halifax, Canada",2,0,5
+47,"Milwaukee, WI",3,0,5
+48,"Buffalo, NY",2,0,5
+49,"Providence, RI",2,0,5
+50,"Boise, ID",2,0,5
+51,"Basel, Switzerland",2,0,5
+52,"Geneva, Switzerland",2,1,8
+53,"Zurich, Switzerland",2,2,9
+54,"Oxford, UK",1,2,4
+55,"London, UK",5,1,11
+56,"Manchester, UK",2,0,7
+57,"Edinburgh, UK",2,1,7
+58,"Dublin, Ireland",3,0,8
+59,"Paris, France",5,1,10
+60,"Lyon, France",3,0,7
+61,"Marseille, France",3,0,6
+62,"Berlin, Germany",4,1,9
+63,"Munich, Germany",3,2,9
+64,"Frankfurt, Germany",3,0,10
+65,"Hamburg, Germany",3,0,6
+66,"Amsterdam, Netherlands",3,1,9
+67,"Rotterdam, Netherlands",2,0,6
+68,"Brussels, Belgium",3,0,8
+69,"Vienna, Austria",4,2,8
+70,"Copenhagen, Denmark",3,1,8
+71,"Stockholm, Sweden",3,1,8
+72,"Oslo, Norway",2,0,6
+73,"Helsinki, Finland",2,1,8
+74,"Madrid, Spain",4,0,8
+75,"Barcelona, Spain",4,0,8
+76,"Lisbon, Portugal",3,0,8
+77,"Rome, Italy",4,0,7
+78,"Milan, Italy",4,0,9
+79,"Athens, Greece",3,0,7
+80,"Warsaw, Poland",4,0,8
+81,"Prague, Czechia",3,0,8
+82,"Budapest, Hungary",3,0,7
+83,"Daejeon, South Korea",2,0,6
+84,"Seoul, South Korea",5,1,10
+85,"Busan, South Korea",3,0,7
+86,"Tokyo, Japan",5,2,11
+87,"Osaka, Japan",4,0,9
+88,"Sapporo, Japan",2,0,6
+89,"Fukuoka, Japan",2,0,6
+90,"Taipei, Taiwan",4,0,9
+91,Singapore,4,2,11
+92,"Sydney, Australia",5,1,10
+93,"Melbourne, Australia",4,1,9
+94,"Brisbane, Australia",3,0,7
+95,"Perth, Australia",3,0,7
+96,"Auckland, New Zealand",3,0,7
+97,"Wellington, New Zealand",2,0,6
+98,"Tel Aviv, Israel",3,2,8
+99,"Reykjavik, Iceland",1,0,5
+100,"Tallinn, Estonia",2,0,5
+101,"Cambridge, MA",1,2,8
+102,"Princeton, NJ",1,2,4
+103,"Palo Alto, CA",1,2,10
+104,"Pasadena, CA",2,2,6
+105,"Boulder, CO",1,2,6
+106,"Ann Arbor, MI",1,1,5
+107,"Madison, WI",2,1,5
+108,"Urbana, IL",1,1,4
+109,"Ithaca, NY",1,1,4
+110,"New Haven, CT",2,2,5
+111,"Berkeley, CA",1,2,6
+112,"Santa Barbara, CA",1,2,5
+113,"Tucson, AZ",3,0,5
+114,"Albuquerque, NM",3,0,6
+115,"Honolulu, HI",3,0,6
+116,"Anchorage, AK",2,0,5
+117,"Baltimore, MD",3,1,6
+118,"Richmond, VA",2,0,6
+119,"Tampa, FL",3,0,6
+120,"Jacksonville, FL",3,0,6
+121,"Cincinnati, OH",3,0,6
+122,"Cleveland, OH",3,0,6
+123,"Oklahoma City, OK",3,0,5
+124,"Omaha, NE",2,0,5
+125,"Memphis, TN",3,0,5
+126,"Victoria, Canada",2,0,5
+127,"Saskatoon, Canada",2,0,4
+128,"Waterloo, Canada",2,2,7
+129,"Cambridge, UK",1,2,6
+130,"Glasgow, UK",3,0,6
+131,"Bristol, UK",2,0,6
+132,"Birmingham, UK",3,0,6
+133,"Leeds, UK",3,0,6
+134,"Delft, Netherlands",1,2,5
+135,"Eindhoven, Netherlands",2,1,7
+136,"Grenoble, France",2,1,6
+137,"Toulouse, France",3,0,7
+138,"Nice, France",2,0,5
+139,"Cologne, Germany",3,0,7
+140,"Stuttgart, Germany",3,0,8
+141,"Dresden, Germany",2,0,5
+142,"Aachen, Germany",2,1,5
+143,"Heidelberg, Germany",1,1,5
+144,"Innsbruck, Austria",1,2,5
+145,"Graz, Austria",2,0,5
+146,"Gothenburg, Sweden",2,0,6
+147,"Uppsala, Sweden",1,1,4
+148,"Turku, Finland",2,0,5
+149,"Krakow, Poland",3,0,6
+150,"Gdansk, Poland",2,0,5
+151,"Brno, Czechia",2,0,5
+152,"Bratislava, Slovakia",2,0,6
+153,"Ljubljana, Slovenia",2,0,5
+154,"Zagreb, Croatia",3,0,5
+155,"Bucharest, Romania",4,0,6
+156,"Sofia, Bulgaria",3,0,5
+157,"Porto, Portugal",2,0,6
+158,"Valencia, Spain",3,0,6
+159,"Seville, Spain",3,0,5
+160,"Bilbao, Spain",2,0,6
+161,"Florence, Italy",2,0,5
+162,"Turin, Italy",3,0,7
+163,"Bologna, Italy",2,0,6
+164,"Beijing, China",5,2,10
+165,"Shanghai, China",5,1,11
+166,"Shenzhen, China",5,0,10
+167,Hong Kong,5,1,11
+168,"Guangzhou, China",5,0,9
+169,"Hangzhou, China",4,0,9
+170,"Nanjing, China",4,0,7
+171,"Bangalore, India",5,1,8
+172,"Mumbai, India",5,0,10
+173,"Delhi, India",5,0,9
+174,"Hyderabad, India",4,0,8
+175,"Chennai, India",4,0,7
+176,"Pune, India",4,0,7
+177,"Bangkok, Thailand",5,0,8
+178,"Kuala Lumpur, Malaysia",4,0,8
+179,"Jakarta, Indonesia",5,0,8
+180,"Manila, Philippines",5,0,7
+181,"Ho Chi Minh City, Vietnam",4,0,7
+182,"Hanoi, Vietnam",4,0,6
+183,"Nagoya, Japan",4,0,8
+184,"Kyoto, Japan",3,1,6
+185,"Dubai, UAE",4,0,10
+186,"Abu Dhabi, UAE",3,0,8
+187,"Doha, Qatar",3,0,8
+188,"Riyadh, Saudi Arabia",4,0,8
+189,"Cairo, Egypt",5,0,7
+190,"Johannesburg, South Africa",4,0,8
+191,"Cape Town, South Africa",3,0,7
+192,"Sao Paulo, Brazil",5,0,10
+193,"Rio de Janeiro, Brazil",5,0,8
+194,"Buenos Aires, Argentina",5,0,8
+195,"Santiago, Chile",4,0,7
+196,"Bogota, Colombia",4,0,7
+197,"Lima, Peru",4,0,6
+198,"Mexico City, Mexico",5,0,9
+199,"Guadalajara, Mexico",4,0,7
+200,"Monterrey, Mexico",4,0,8
+201,"Durham, NC",2,1,6
+202,"Evanston, IL",1,1,5
+203,"San Jose, CA",4,0,10
+204,"Irvine, CA",2,0,7
+205,"Santa Cruz, CA",1,1,5
+206,"Davis, CA",1,1,4
+207,"La Jolla, CA",1,2,6
+208,"Rochester, NY",2,0,5
+209,"Syracuse, NY",2,0,5
+210,"Albany, NY",2,0,6
+211,"Hartford, CT",2,0,6
+212,"Worcester, MA",2,0,5
+213,"Hanover, NH",1,1,4
+214,"Burlington, VT",1,0,4
+215,"Portland, ME",1,0,5
+216,"State College, PA",1,1,4
+217,"Bethlehem, PA",1,0,4
+218,"Blacksburg, VA",1,0,4
+219,"Charlottesville, VA",1,0,4
+220,"Chapel Hill, NC",1,0,4
+221,"Gainesville, FL",2,0,4
+222,"Tallahassee, FL",2,0,5
+223,"Lexington, KY",2,0,5
+224,"Louisville, KY",3,0,6
+225,"Knoxville, TN",2,0,5
+226,"Huntsville, AL",2,0,6
+227,"Birmingham, AL",3,0,5
+228,"Baton Rouge, LA",2,0,5
+229,"Little Rock, AR",2,0,5
+230,"Tulsa, OK",3,0,6
+231,"El Paso, TX",3,0,5
+232,"Fort Worth, TX",3,0,6
+233,"Waco, TX",2,0,4
+234,"Lubbock, TX",2,0,4
+235,"Colorado Springs, CO",3,0,6
+236,"Fort Collins, CO",2,0,5
+237,"Tempe, AZ",2,0,6
+238,"Provo, UT",2,0,5
+239,"Spokane, WA",2,0,5
+240,"Eugene, OR",2,0,4
+241,"Reno, NV",2,0,5
+242,"Sacramento, CA",3,0,6
+243,"Fresno, CA",3,0,5
+244,"Bakersfield, CA",2,0,4
+245,"Long Beach, CA",3,0,6
+246,"Riverside, CA",2,0,5
+247,"St. John's, Canada",2,0,4
+248,"Regina, Canada",2,0,5
+249,"Hamilton, Canada",3,0,6
+250,"London, Canada",2,0,5
+251,"Kingston, Canada",1,0,4
+252,"Sherbrooke, Canada",1,0,4
+253,"Liverpool, UK",2,0,6
+254,"Newcastle, UK",2,0,5
+255,"Sheffield, UK",3,0,5
+256,"Nottingham, UK",2,0,5
+257,"Belfast, UK",2,0,6
+258,"Cardiff, UK",2,0,6
+259,"Southampton, UK",2,0,5
+260,"Cork, Ireland",2,0,6
+261,"Galway, Ireland",1,0,5
+262,"Bordeaux, France",2,0,6
+263,"Nantes, France",2,0,6
+264,"Strasbourg, France",2,0,6
+265,"Lille, France",3,0,6
+266,"Montpellier, France",2,0,5
+267,"Rennes, France",2,0,5
+268,"Bonn, Germany",2,0,6
+269,"Dusseldorf, Germany",3,0,8
+270,"Hanover, Germany",2,0,6
+271,"Leipzig, Germany",3,0,6
+272,"Nuremberg, Germany",2,0,6
+273,"Dortmund, Germany",3,0,6
+274,"Essen, Germany",3,0,6
+275,"Bremen, Germany",2,0,6
+276,"Salzburg, Austria",1,0,5
+277,"Linz, Austria",2,0,5
+278,"Antwerp, Belgium",2,0,7
+279,"Ghent, Belgium",2,0,5
+280,"Leuven, Belgium",1,1,5
+281,"Utrecht, Netherlands",2,0,6
+282,"Leiden, Netherlands",1,1,5
+283,"Groningen, Netherlands",2,0,5
+284,Luxembourg City,2,0,9
+285,"Bern, Switzerland",2,0,6
+286,"Lausanne, Switzerland",2,1,6
+287,"Malmo, Sweden",2,0,6
+288,"Lund, Sweden",1,1,4
+289,"Aarhus, Denmark",2,0,6
+290,"Bergen, Norway",2,0,5
+291,"Trondheim, Norway",2,0,5
+292,"Tampere, Finland",2,0,5
+293,"Oulu, Finland",1,0,5
+294,"Riga, Latvia",3,0,5
+295,"Vilnius, Lithuania",2,0,5
+296,"Minsk, Belarus",4,0,5
+297,"Kyiv, Ukraine",4,0,6
+298,"Lviv, Ukraine",3,0,5
+299,"Kharkiv, Ukraine",3,0,5
+300,"Moscow, Russia",5,1,9
+301,"St. Petersburg, Russia",4,0,7
+302,"Novosibirsk, Russia",3,0,5
+303,"Thessaloniki, Greece",3,0,5
+304,"Istanbul, Turkey",5,0,9
+305,"Ankara, Turkey",4,0,6
+306,"Izmir, Turkey",3,0,6
+307,"Incheon, South Korea",3,0,7
+308,"Daegu, South Korea",3,0,6
+309,"Gwangju, South Korea",3,0,5
+310,"Yokohama, Japan",4,0,7
+311,"Kobe, Japan",3,0,6
+312,"Hiroshima, Japan",3,0,6
+313,"Sendai, Japan",3,0,6
+314,"Kaohsiung, Taiwan",3,0,6
+315,"Taichung, Taiwan",3,0,6
+316,"Hsinchu, Taiwan",2,0,8
+317,"Hefei, China",4,1,6
+318,"Wuhan, China",5,0,7
+319,"Chengdu, China",5,0,8
+320,"Xi'an, China",4,0,6
+321,"Suzhou, China",4,0,7
+322,"Tianjin, China",5,0,7
+323,"Chongqing, China",5,0,7
+324,"Qingdao, China",4,0,6
+325,"Dalian, China",3,0,6
+326,"Ningbo, China",4,0,6
+327,"Kolkata, India",5,0,7
+328,"Ahmedabad, India",4,0,7
+329,"Kanpur, India",4,1,5
+330,"Kharagpur, India",2,1,4
+331,"Roorkee, India",1,0,4
+332,"Lahore, Pakistan",5,0,6
+333,"Karachi, Pakistan",5,0,7
+334,"Islamabad, Pakistan",3,0,6
+335,"Dhaka, Bangladesh",5,0,6
+336,"Colombo, Sri Lanka",3,0,6
+337,"Kathmandu, Nepal",3,0,5
+338,"Yangon, Myanmar",4,0,5
+339,"Phnom Penh, Cambodia",3,0,5
+340,"Da Nang, Vietnam",3,0,5
+341,"Penang, Malaysia",2,0,6
+342,"Johor Bahru, Malaysia",3,0,6
+343,"Surabaya, Indonesia",4,0,6
+344,"Bandung, Indonesia",3,0,6
+345,"Cebu City, Philippines",3,0,6
+346,"Quezon City, Philippines",4,0,6
+347,"Adelaide, Australia",3,0,6
+348,"Canberra, Australia",2,1,6
+349,"Gold Coast, Australia",3,0,5
+350,"Christchurch, New Zealand",2,0,5
+351,"Haifa, Israel",2,1,6
+352,"Jerusalem, Israel",3,1,6
+353,"Jeddah, Saudi Arabia",4,0,7
+354,"Kuwait City, Kuwait",3,0,7
+355,"Manama, Bahrain",2,0,7
+356,"Muscat, Oman",3,0,6
+357,"Amman, Jordan",3,0,5
+358,"Beirut, Lebanon",3,0,6
+359,"Casablanca, Morocco",4,0,7
+360,"Rabat, Morocco",3,0,5
+361,"Tunis, Tunisia",3,0,5
+362,"Algiers, Algeria",4,0,5
+363,"Lagos, Nigeria",5,0,7
+364,"Nairobi, Kenya",4,0,6
+365,"Addis Ababa, Ethiopia",4,0,5
+366,"Dar es Salaam, Tanzania",4,0,5
+367,"Durban, South Africa",3,0,6
+368,"Pretoria, South Africa",3,0,6
+369,"Accra, Ghana",4,0,5
+370,"Dakar, Senegal",3,0,5
+371,Mauritius,2,0,6
+372,"Curitiba, Brazil",3,0,6
+373,"Belo Horizonte, Brazil",4,0,6
+374,"Brasilia, Brazil",4,0,7
+375,"Porto Alegre, Brazil",3,0,6
+376,"Campinas, Brazil",3,0,6
+377,"Cordoba, Argentina",3,0,5
+378,"Mendoza, Argentina",2,0,5
+379,"Rosario, Argentina",3,0,5
+380,"Montevideo, Uruguay",3,0,6
+381,"Valparaiso, Chile",2,0,5
+382,"Concepcion, Chile",2,0,5
+383,"Medellin, Colombia",4,0,6
+384,"Cali, Colombia",3,0,5
+385,"Quito, Ecuador",4,0,5
+386,"Guayaquil, Ecuador",4,0,6
+387,"Caracas, Venezuela",4,0,5
+388,"Panama City, Panama",3,0,8
+389,"San Jose, Costa Rica",3,0,6
+390,"Guatemala City, Guatemala",3,0,5
+391,"Havana, Cuba",4,0,4
+392,"Santo Domingo, Dominican Republic",3,0,5
+393,"San Juan, Puerto Rico",2,0,6
+394,"Kingston, Jamaica",2,0,5
+395,"Nassau, Bahamas",2,0,6
+396,"Tijuana, Mexico",3,0,6
+397,"Cancun, Mexico",2,0,6
+398,"Puebla, Mexico",4,0,6
+399,"Queretaro, Mexico",3,0,6
