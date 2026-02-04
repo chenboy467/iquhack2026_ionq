@@ -1,4 +1,4 @@
-# iQuHacks-2026-Quih
+# iQuHacks-2026-IONQ-Quih
 
 Source code for IonQ's challenge.
 
